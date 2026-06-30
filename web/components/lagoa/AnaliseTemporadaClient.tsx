@@ -258,8 +258,9 @@ export function AnaliseTemporadaClient({ dadosPorPonto }: Props) {
       {/* KPIs */}
       <div className="grid grid-cols-2 lg:grid-cols-4 gap-3">
         <div className={`rounded-xl border p-4 ${pctColor.card}`}>
-          <div className="text-xs font-medium uppercase tracking-wide text-gray-500 mb-1">% Próprias</div>
+          <div className="text-xs font-medium uppercase tracking-wide text-gray-500 mb-1">Qualidade geral</div>
           <div className={`text-3xl font-bold ${pctColor.text}`}>{pctGeral}%</div>
+          <div className={`text-xs font-semibold mt-0.5 ${pctColor.text}`}>{pctGeral >= 50 ? "Próprias" : "Impróprias"}</div>
           <div className="text-xs text-gray-500 mt-1">{totalProprias} de {totalMedicoes} medições</div>
         </div>
         <div className="rounded-xl border bg-gray-50 border-gray-200 p-4">

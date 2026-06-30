@@ -1,16 +1,19 @@
 import type { Metadata, Viewport } from "next";
+import Image from "next/image";
 import "./globals.css";
 import { NavPrincipal } from "@/components/layout/NavPrincipal";
+import { BemVindo } from "@/components/layout/BemVindo";
+import { PraiaSelector } from "@/components/layout/PraiaSelector";
 
 export const metadata: Metadata = {
-  title: "Balneabilidade SC — Praias de Santa Catarina",
+  title: "Balneabilidade — Lagoa da Conceição · Florianópolis",
   description:
-    "Consulte o status de balneabilidade das praias de Santa Catarina. Saiba se pode nadar antes de ir à praia.",
-  keywords: "balneabilidade, praias, Santa Catarina, pode nadar, IMA, qualidade água",
+    "Status atual e histórico de balneabilidade da Lagoa da Conceição em Florianópolis. 9 pontos monitorados pelo IMA/SC.",
+  keywords: "balneabilidade, Lagoa da Conceição, Florianópolis, pode nadar, IMA, qualidade água",
   authors: [{ name: "IMA-SC" }],
   openGraph: {
-    title: "Balneabilidade SC",
-    description: "Veja quais praias de SC estão próprias para banho",
+    title: "Balneabilidade — Lagoa da Conceição",
+    description: "Veja se a Lagoa da Conceição está própria para banho",
     type: "website",
     locale: "pt_BR",
   },
@@ -26,12 +29,26 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="pt-BR">
       <body className="min-h-screen flex flex-col">
-        <header className="bg-teal-700 text-white shadow-md">
-          <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
-            <a href="/" className="flex items-center gap-2 font-bold text-lg hover:text-teal-100 transition-colors">
-              <span className="text-2xl">🌊</span>
-              <span>Balneabilidade SC</span>
-            </a>
+        <BemVindo />
+        <header className="bg-gradient-to-r from-teal-800 to-teal-600 text-white shadow-lg">
+          <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
+
+            {/* Logo + seletor de praia */}
+            <div className="flex items-center gap-3 shrink-0">
+              <a href="/lagoa" className="group">
+                <div className="bg-white rounded-xl px-2.5 py-1.5 shadow-sm group-hover:shadow-md transition-shadow">
+                  <Image
+                    src="/AMOLAGOA.png"
+                    alt="AMOLAGOA"
+                    width={110}
+                    height={36}
+                    className="h-8 w-auto"
+                  />
+                </div>
+              </a>
+              <PraiaSelector />
+            </div>
+
             <NavPrincipal />
           </div>
         </header>
@@ -47,7 +64,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
         <footer className="bg-gray-100 border-t text-xs text-gray-500 text-center py-4 px-4">
           <p>Dados: <a href="https://balneabilidade.ima.sc.gov.br" className="underline hover:text-gray-700" target="_blank" rel="noopener noreferrer">IMA-SC</a> · Resolução CONAMA 274/2000 · Atualizado semanalmente</p>
-          <p className="mt-1">Este site é uma iniciativa da comunidade para facilitar o acesso às informações públicas de balneabilidade.</p>
+          <p className="mt-1">Uma iniciativa da <a href="https://amolagoa.floripa.br" className="font-semibold text-gray-700 hover:underline" target="_blank" rel="noopener noreferrer">AMOLAGOA</a> para facilitar o acesso às informações públicas de balneabilidade.</p>
         </footer>
       </body>
     </html>

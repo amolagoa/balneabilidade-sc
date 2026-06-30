@@ -1,56 +1,65 @@
 "use client";
+import Link from "next/link";
 import { usePathname } from "next/navigation";
+import { praiaSlugFromPathname } from "@/lib/praias";
 
-const links = [
-  { href: "/", label: "Geral", exact: true },
-  { href: "/cidades", label: "Cidades" },
-  { href: "/praias", label: "Praias" },
-  { href: "/mapa", label: "Mapa" },
-  { href: "/temporadas", label: "Evolução" },
-  { href: "/relatorios", label: "Relatórios" },
+const SUB_PAGES = [
+  { sub: "", label: "Último Relatório" },
+  { sub: "/analise", label: "Análise por Temporada" },
+  { sub: "/pontos", label: "Análise por Ponto" },
+  { sub: "/mapa", label: "Mapa" },
 ];
+
+function isAtivo(pathname: string, href: string): boolean {
+  const norm = pathname.replace(/\/$/, "") || "/";
+  return norm === href || pathname === href + "/";
+}
 
 export function NavPrincipal() {
   const pathname = usePathname();
+  const slug = praiaSlugFromPathname(pathname);
+  const base = `/${slug}`;
+
+  const links = SUB_PAGES.map(({ sub, label }) => ({ href: `${base}${sub}`, label }));
 
   return (
     <>
       {/* Desktop */}
-      <nav className="hidden sm:flex items-center gap-6 text-sm font-medium">
+      <nav className="hidden sm:flex items-center gap-1 text-sm font-medium">
         {links.map((link) => {
-          const ativo = link.exact ? pathname === link.href : pathname.startsWith(link.href);
+          const ativo = isAtivo(pathname, link.href);
           return (
-            <a
+            <Link
               key={link.href}
               href={link.href}
-              className={`transition-colors pb-0.5 ${
+              className={
                 ativo
-                  ? "text-white border-b-2 border-white"
-                  : "text-teal-100 hover:text-white"
-              }`}
+                  ? "px-3 py-1.5 rounded-lg bg-white text-teal-700 font-bold shadow"
+                  : "px-3 py-1.5 rounded-lg text-teal-100 hover:bg-white/20 hover:text-white transition-colors"
+              }
             >
               {link.label}
-            </a>
+            </Link>
           );
         })}
       </nav>
 
       {/* Mobile */}
-      <nav className="flex sm:hidden items-center gap-3 text-xs font-medium overflow-x-auto">
+      <nav className="flex sm:hidden items-center gap-1 text-xs font-medium overflow-x-auto pb-0.5">
         {links.map((link) => {
-          const ativo = link.exact ? pathname === link.href : pathname.startsWith(link.href);
+          const ativo = isAtivo(pathname, link.href);
           return (
-            <a
+            <Link
               key={link.href}
               href={link.href}
-              className={`whitespace-nowrap transition-colors ${
+              className={
                 ativo
-                  ? "text-white font-bold border-b-2 border-white pb-0.5"
-                  : "text-teal-100 hover:text-white"
-              }`}
+                  ? "whitespace-nowrap px-2.5 py-1 rounded-lg bg-white text-teal-700 font-bold shadow"
+                  : "whitespace-nowrap px-2.5 py-1 rounded-lg text-teal-100 hover:bg-white/20 hover:text-white transition-colors"
+              }
             >
               {link.label}
-            </a>
+            </Link>
           );
         })}
       </nav>

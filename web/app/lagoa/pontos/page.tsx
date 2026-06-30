@@ -1,11 +1,11 @@
 import { getPontos, getPontoHistorico } from "@/lib/data";
-import { UltimoRelatorioClient } from "@/components/lagoa/UltimoRelatorioClient";
+import { PontosLagoaClient } from "@/components/lagoa/PontosLagoaClient";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Último Relatório — Lagoa da Conceição | Florianópolis SC",
+  title: "Análise por Ponto — Lagoa da Conceição | Florianópolis SC",
   description:
-    "Status de balneabilidade da Lagoa da Conceição por relatório do IMA/SC. Consulte o último relatório ou qualquer edição anterior.",
+    "Histórico detalhado de cada ponto de monitoramento da Lagoa da Conceição. Compare o desempenho dos 9 pontos do IMA/SC.",
 };
 
 const LAGOA_IDS = [
@@ -20,7 +20,7 @@ const LAGOA_IDS = [
   "ima_391", // Ponto 97
 ];
 
-export default async function LagoaPage() {
+export default async function PontosPage() {
   const pontos = await getPontos();
   const lagoaPontos = LAGOA_IDS.map((id) => pontos.find((p) => p.id === id)).filter(Boolean) as typeof pontos;
 
@@ -36,13 +36,13 @@ export default async function LagoaPage() {
   return (
     <div className="space-y-5">
       <div>
-        <h1 className="text-2xl font-bold text-gray-900">Último Relatório</h1>
+        <h1 className="text-2xl font-bold text-gray-900">Análise por Ponto</h1>
         <p className="text-gray-500 text-sm mt-1">
-          Lagoa da Conceição · Florianópolis · {lagoaPontos.length} pontos monitorados pelo IMA/SC
+          Lagoa da Conceição · {lagoaPontos.length} pontos monitorados · histórico completo desde 2023
         </p>
       </div>
 
-      <UltimoRelatorioClient dadosPorPonto={dadosPorPonto} />
+      <PontosLagoaClient dadosPorPonto={dadosPorPonto} />
     </div>
   );
 }
