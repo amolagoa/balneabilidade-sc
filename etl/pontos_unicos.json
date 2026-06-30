@@ -1,0 +1,4942 @@
+[
+  {
+    "id": "balneario_camboriu_arroio_da_praia_das_gaivotas_p2",
+    "praia": "Arroio Da Praia Das Gaivotas",
+    "municipio": "Balneário Camboriú",
+    "municipio_slug": "balneario_camboriu",
+    "ponto_num": 2,
+    "descricao": "na foz do riacho, no mar",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_camboriu_praia_das_gaivotas_p1",
+    "praia": "Praia Das Gaivotas",
+    "municipio": "Balneário Camboriú",
+    "municipio_slug": "balneario_camboriu",
+    "ponto_num": 1,
+    "descricao": "Na Avenida Itapuan, em frente à Praça de Esportes",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_camboriu_praia_das_gaivotas_p3",
+    "praia": "Praia Das Gaivotas",
+    "municipio": "Balneário Camboriú",
+    "municipio_slug": "balneario_camboriu",
+    "ponto_num": 3,
+    "descricao": "Final da Rua R.B - Acesso Onda Azul",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_camboriu_praia_das_gaivotas_p4",
+    "praia": "Praia Das Gaivotas",
+    "municipio": "Balneário Camboriú",
+    "municipio_slug": "balneario_camboriu",
+    "ponto_num": 4,
+    "descricao": "Final da Sétima Avenida",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_camboriu_praia_das_gaivotas_p5",
+    "praia": "Praia Das Gaivotas",
+    "municipio": "Balneário Camboriú",
+    "municipio_slug": "balneario_camboriu",
+    "ponto_num": 5,
+    "descricao": "Final da Avenida Crespim João Pereira",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_camboriu_praia_das_gaivotas_p6",
+    "praia": "Praia Das Gaivotas",
+    "municipio": "Balneário Camboriú",
+    "municipio_slug": "balneario_camboriu",
+    "ponto_num": 6,
+    "descricao": "Final da Avenida Brasília - Acesso Turimar",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_camboriu_praia_das_gaivotas_p7",
+    "praia": "Praia Das Gaivotas",
+    "municipio": "Balneário Camboriú",
+    "municipio_slug": "balneario_camboriu",
+    "ponto_num": 7,
+    "descricao": "Entre à Rua Lages e Rua Joinville",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_camboriu_praia_de_laranjeiras_p6",
+    "praia": "Praia De Laranjeiras",
+    "municipio": "Balneário Camboriú",
+    "municipio_slug": "balneario_camboriu",
+    "ponto_num": 6,
+    "descricao": "NO MEIO DA PRAIA",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_camboriu_praia_de_taquaras_p8",
+    "praia": "Praia De Taquaras",
+    "municipio": "Balneário Camboriú",
+    "municipio_slug": "balneario_camboriu",
+    "ponto_num": 8,
+    "descricao": "EM FRENTE A ESCOLA MUNICIPAL",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_camboriu_praia_de_taquaras_p9",
+    "praia": "Praia De Taquaras",
+    "municipio": "Balneário Camboriú",
+    "municipio_slug": "balneario_camboriu",
+    "ponto_num": 9,
+    "descricao": "Na Lagoa de Taquaras",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_camboriu_praia_do_arroio_do_silva_p1",
+    "praia": "Praia Do Arroio Do Silva",
+    "municipio": "Balneário Camboriú",
+    "municipio_slug": "balneario_camboriu",
+    "ponto_num": 1,
+    "descricao": "Na Rua Apolônio Ireno Cardoso - 100 metros ao norte do Arroio",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_camboriu_praia_do_arroio_do_silva_p2",
+    "praia": "Praia Do Arroio Do Silva",
+    "municipio": "Balneário Camboriú",
+    "municipio_slug": "balneario_camboriu",
+    "ponto_num": 2,
+    "descricao": "Na Rua Prezalino Oliveira - 100 metros ao sul do Arroio",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_camboriu_praia_do_arroio_do_silva_p3",
+    "praia": "Praia Do Arroio Do Silva",
+    "municipio": "Balneário Camboriú",
+    "municipio_slug": "balneario_camboriu",
+    "ponto_num": 3,
+    "descricao": "Em frente à Avenida Mondardo, na foz do Arroio",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_camboriu_praia_do_arroio_do_silva_p4",
+    "praia": "Praia Do Arroio Do Silva",
+    "municipio": "Balneário Camboriú",
+    "municipio_slug": "balneario_camboriu",
+    "ponto_num": 4,
+    "descricao": "Final da Rua Criciúma",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_camboriu_praia_do_arroio_do_silva_p5",
+    "praia": "Praia Do Arroio Do Silva",
+    "municipio": "Balneário Camboriú",
+    "municipio_slug": "balneario_camboriu",
+    "ponto_num": 5,
+    "descricao": "Final da Rua Domingo Campos",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_camboriu_praia_do_arroio_do_silva_p17",
+    "praia": "Praia Do Arroio Do Silva",
+    "municipio": "Balneário Camboriú",
+    "municipio_slug": "balneario_camboriu",
+    "ponto_num": 17,
+    "descricao": "Em frente à Avenida Florianópolis",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_camboriu_praia_do_balneario_camboriu_p1",
+    "praia": "Praia Do Balneário Camboriú",
+    "municipio": "Balneário Camboriú",
+    "municipio_slug": "balneario_camboriu",
+    "ponto_num": 1,
+    "descricao": "No Pontal Norte",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_camboriu_praia_do_balneario_camboriu_p2",
+    "praia": "Praia Do Balneário Camboriú",
+    "municipio": "Balneário Camboriú",
+    "municipio_slug": "balneario_camboriu",
+    "ponto_num": 2,
+    "descricao": "Em frente à Rua 1001",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_camboriu_praia_do_balneario_camboriu_p3",
+    "praia": "Praia Do Balneário Camboriú",
+    "municipio": "Balneário Camboriú",
+    "municipio_slug": "balneario_camboriu",
+    "ponto_num": 3,
+    "descricao": "Em frente à Rua 2000",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_camboriu_praia_do_balneario_camboriu_p4",
+    "praia": "Praia Do Balneário Camboriú",
+    "municipio": "Balneário Camboriú",
+    "municipio_slug": "balneario_camboriu",
+    "ponto_num": 4,
+    "descricao": "Em frente à Rua 3000",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_camboriu_praia_do_balneario_camboriu_p5",
+    "praia": "Praia Do Balneário Camboriú",
+    "municipio": "Balneário Camboriú",
+    "municipio_slug": "balneario_camboriu",
+    "ponto_num": 5,
+    "descricao": "Pontal Sul, em frente à Rua n°4900",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_camboriu_praia_do_morro_dos_conventos_p1",
+    "praia": "Praia Do Morro Dos Conventos",
+    "municipio": "Balneário Camboriú",
+    "municipio_slug": "balneario_camboriu",
+    "ponto_num": 1,
+    "descricao": "Em frente ao posto de Salva Vidas Central",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_picarras_canal_do_linguado_p2",
+    "praia": "Canal Do Linguado",
+    "municipio": "Balneário Piçarras",
+    "municipio_slug": "balneario_picarras",
+    "ponto_num": 2,
+    "descricao": "Na Prainha da foz do Canal Do Linguado",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_picarras_canal_do_linguado_p3",
+    "praia": "Canal Do Linguado",
+    "municipio": "Balneário Piçarras",
+    "municipio_slug": "balneario_picarras",
+    "ponto_num": 3,
+    "descricao": "Em frente à Rua Otto Fiedler",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_picarras_praia_da_barra_do_sul_p1",
+    "praia": "Praia Da Barra Do Sul",
+    "municipio": "Balneário Piçarras",
+    "municipio_slug": "balneario_picarras",
+    "ponto_num": 1,
+    "descricao": "Na Praia do Bispo, em frente à Capela Dos Navegantes",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_picarras_praia_de_picarras_p1",
+    "praia": "Praia De Piçarras",
+    "municipio": "Balneário Piçarras",
+    "municipio_slug": "balneario_picarras",
+    "ponto_num": 1,
+    "descricao": "Em frente à Rua Nakle Francisco",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_picarras_praia_de_picarras_p2",
+    "praia": "Praia De Piçarras",
+    "municipio": "Balneário Piçarras",
+    "municipio_slug": "balneario_picarras",
+    "ponto_num": 2,
+    "descricao": "Em frente Av. Getúlio Vargas, esquerda do molhe",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_picarras_praia_de_taquaras_p8",
+    "praia": "Praia De Taquaras",
+    "municipio": "Balneário Piçarras",
+    "municipio_slug": "balneario_picarras",
+    "ponto_num": 8,
+    "descricao": "Em frente à Escola Municipal",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_picarras_praia_de_taquaras_p9",
+    "praia": "Praia De Taquaras",
+    "municipio": "Balneário Piçarras",
+    "municipio_slug": "balneario_picarras",
+    "ponto_num": 9,
+    "descricao": "Na Lagoa de Taquaras",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_picarras_praia_do_balneario_camboriu_p1",
+    "praia": "Praia Do Balneário Camboriú",
+    "municipio": "Balneário Piçarras",
+    "municipio_slug": "balneario_picarras",
+    "ponto_num": 1,
+    "descricao": "No Pontal Norte",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_picarras_praia_do_balneario_camboriu_p2",
+    "praia": "Praia Do Balneário Camboriú",
+    "municipio": "Balneário Piçarras",
+    "municipio_slug": "balneario_picarras",
+    "ponto_num": 2,
+    "descricao": "Em frente à Rua 1001",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_picarras_praia_do_balneario_camboriu_p3",
+    "praia": "Praia Do Balneário Camboriú",
+    "municipio": "Balneário Piçarras",
+    "municipio_slug": "balneario_picarras",
+    "ponto_num": 3,
+    "descricao": "Em frente à Rua 2000",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_picarras_praia_do_balneario_camboriu_p4",
+    "praia": "Praia Do Balneário Camboriú",
+    "municipio": "Balneário Piçarras",
+    "municipio_slug": "balneario_picarras",
+    "ponto_num": 4,
+    "descricao": "Em frente à Rua 3000",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_picarras_praia_do_balneario_camboriu_p5",
+    "praia": "Praia Do Balneário Camboriú",
+    "municipio": "Balneário Piçarras",
+    "municipio_slug": "balneario_picarras",
+    "ponto_num": 5,
+    "descricao": "Pontal Sul, em frente à Rua n°4900",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_picarras_praia_do_balneario_camboriu_p10",
+    "praia": "Praia Do Balneário Camboriú",
+    "municipio": "Balneário Piçarras",
+    "municipio_slug": "balneario_picarras",
+    "ponto_num": 10,
+    "descricao": "Em frente à Rua n°4000",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_picarras_praia_do_balneario_camboriu_p11",
+    "praia": "Praia Do Balneário Camboriú",
+    "municipio": "Balneário Piçarras",
+    "municipio_slug": "balneario_picarras",
+    "ponto_num": 11,
+    "descricao": "Em frente à Rua n°3500",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_picarras_praia_do_balneario_camboriu_p12",
+    "praia": "Praia Do Balneário Camboriú",
+    "municipio": "Balneário Piçarras",
+    "municipio_slug": "balneario_picarras",
+    "ponto_num": 12,
+    "descricao": "Em frente à Rua n°2500",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_picarras_praia_do_balneario_camboriu_p13",
+    "praia": "Praia Do Balneário Camboriú",
+    "municipio": "Balneário Piçarras",
+    "municipio_slug": "balneario_picarras",
+    "ponto_num": 13,
+    "descricao": "Em frente à Rua n°1400",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_picarras_praia_do_balneario_camboriu_p14",
+    "praia": "Praia Do Balneário Camboriú",
+    "municipio": "Balneário Piçarras",
+    "municipio_slug": "balneario_picarras",
+    "ponto_num": 14,
+    "descricao": "Em frente à Rua n°51",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_picarras_praia_do_estaleirinho_p15",
+    "praia": "Praia Do Estaleirinho",
+    "municipio": "Balneário Piçarras",
+    "municipio_slug": "balneario_picarras",
+    "ponto_num": 15,
+    "descricao": "Em frente à Rua José Amaro da Cunha",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_picarras_praia_do_estaleiro_p7",
+    "praia": "Praia Do Estaleiro",
+    "municipio": "Balneário Piçarras",
+    "municipio_slug": "balneario_picarras",
+    "ponto_num": 7,
+    "descricao": "Entre às Ruas Domingos Fonseca e Napoleão Vieira",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_rincao_canal_do_linguado_p2",
+    "praia": "Canal Do Linguado",
+    "municipio": "Balneário Rincão",
+    "municipio_slug": "balneario_rincao",
+    "ponto_num": 2,
+    "descricao": "Na Prainha da foz do Canal Do Linguado",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_rincao_canal_do_linguado_p3",
+    "praia": "Canal Do Linguado",
+    "municipio": "Balneário Rincão",
+    "municipio_slug": "balneario_rincao",
+    "ponto_num": 3,
+    "descricao": "Em frente à Rua Otto Fiedler",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_rincao_lagoa_do_faxinal_p3",
+    "praia": "Lagoa Do Faxinal",
+    "municipio": "Balneário Rincão",
+    "municipio_slug": "balneario_rincao",
+    "ponto_num": 3,
+    "descricao": "Em frente ao Parque Verde",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_rincao_lagoa_dos_esteves_p2",
+    "praia": "Lagoa Dos Esteves",
+    "municipio": "Balneário Rincão",
+    "municipio_slug": "balneario_rincao",
+    "ponto_num": 2,
+    "descricao": "Próximo ao trapiche",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_rincao_lagoa_dos_freitas_p1",
+    "praia": "Lagoa Dos Freitas",
+    "municipio": "Balneário Rincão",
+    "municipio_slug": "balneario_rincao",
+    "ponto_num": 1,
+    "descricao": "Em frente à Rua Camboriú - Próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_rincao_praia_da_barra_do_sul_p1",
+    "praia": "Praia Da Barra Do Sul",
+    "municipio": "Balneário Rincão",
+    "municipio_slug": "balneario_rincao",
+    "ponto_num": 1,
+    "descricao": "Na Praia do Bispo, em frente à Capela Dos Navegantes",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_rincao_praia_de_picarras_p1",
+    "praia": "Praia De Piçarras",
+    "municipio": "Balneário Rincão",
+    "municipio_slug": "balneario_rincao",
+    "ponto_num": 1,
+    "descricao": "Em frente à Rua Nakle Francisco",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_rincao_praia_de_picarras_p2",
+    "praia": "Praia De Piçarras",
+    "municipio": "Balneário Rincão",
+    "municipio_slug": "balneario_rincao",
+    "ponto_num": 2,
+    "descricao": "Em frente Av. Getúlio Vargas, esquerda do molhe",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_rincao_praia_do_balneario_camboriu_p1",
+    "praia": "Praia Do Balneário Camboriú",
+    "municipio": "Balneário Rincão",
+    "municipio_slug": "balneario_rincao",
+    "ponto_num": 1,
+    "descricao": "No Pontal Norte",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_rincao_praia_do_balneario_camboriu_p2",
+    "praia": "Praia Do Balneário Camboriú",
+    "municipio": "Balneário Rincão",
+    "municipio_slug": "balneario_rincao",
+    "ponto_num": 2,
+    "descricao": "Em frente à Rua 1001",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_rincao_praia_do_balneario_camboriu_p3",
+    "praia": "Praia Do Balneário Camboriú",
+    "municipio": "Balneário Rincão",
+    "municipio_slug": "balneario_rincao",
+    "ponto_num": 3,
+    "descricao": "Em frente à Rua 2000",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_rincao_praia_do_balneario_camboriu_p4",
+    "praia": "Praia Do Balneário Camboriú",
+    "municipio": "Balneário Rincão",
+    "municipio_slug": "balneario_rincao",
+    "ponto_num": 4,
+    "descricao": "Em frente à Rua 3000",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_rincao_praia_do_balneario_camboriu_p5",
+    "praia": "Praia Do Balneário Camboriú",
+    "municipio": "Balneário Rincão",
+    "municipio_slug": "balneario_rincao",
+    "ponto_num": 5,
+    "descricao": "Pontal Sul, em frente à Rua n°4900",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_rincao_praia_do_balneario_camboriu_p10",
+    "praia": "Praia Do Balneário Camboriú",
+    "municipio": "Balneário Rincão",
+    "municipio_slug": "balneario_rincao",
+    "ponto_num": 10,
+    "descricao": "Em frente à Rua n°4000",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_rincao_praia_do_balneario_camboriu_p11",
+    "praia": "Praia Do Balneário Camboriú",
+    "municipio": "Balneário Rincão",
+    "municipio_slug": "balneario_rincao",
+    "ponto_num": 11,
+    "descricao": "Em frente à Rua n°3500",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_rincao_praia_do_balneario_camboriu_p12",
+    "praia": "Praia Do Balneário Camboriú",
+    "municipio": "Balneário Rincão",
+    "municipio_slug": "balneario_rincao",
+    "ponto_num": 12,
+    "descricao": "Em frente à Rua n°2500",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_rincao_praia_do_balneario_camboriu_p13",
+    "praia": "Praia Do Balneário Camboriú",
+    "municipio": "Balneário Rincão",
+    "municipio_slug": "balneario_rincao",
+    "ponto_num": 13,
+    "descricao": "Em frente à Rua n°1400",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_rincao_praia_do_balneario_camboriu_p14",
+    "praia": "Praia Do Balneário Camboriú",
+    "municipio": "Balneário Rincão",
+    "municipio_slug": "balneario_rincao",
+    "ponto_num": 14,
+    "descricao": "Em frente à Rua n°51",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_rincao_praia_do_estaleirinho_p15",
+    "praia": "Praia Do Estaleirinho",
+    "municipio": "Balneário Rincão",
+    "municipio_slug": "balneario_rincao",
+    "ponto_num": 15,
+    "descricao": "Em frente à Rua José Amaro da Cunha",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_rincao_praia_do_estaleiro_p7",
+    "praia": "Praia Do Estaleiro",
+    "municipio": "Balneário Rincão",
+    "municipio_slug": "balneario_rincao",
+    "ponto_num": 7,
+    "descricao": "Entre às Ruas Domingos Fonseca e Napoleão Vieira",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_rincao_praia_do_rincao_p4",
+    "praia": "Praia Do Rincão",
+    "municipio": "Balneário Rincão",
+    "municipio_slug": "balneario_rincao",
+    "ponto_num": 4,
+    "descricao": "Na Rua Paraná, em frente ao Calçadão",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "balneario_rincao_praia_do_rincao_p5",
+    "praia": "Praia Do Rincão",
+    "municipio": "Balneário Rincão",
+    "municipio_slug": "balneario_rincao",
+    "ponto_num": 5,
+    "descricao": "No Arroio da Praia do Rincão",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "bombinhas_lagoa_de_barra_velha_p5",
+    "praia": "Lagoa De Barra Velha",
+    "municipio": "Bombinhas",
+    "municipio_slug": "bombinhas",
+    "ponto_num": 5,
+    "descricao": "Na Rua Doutor Plácido Gomes De Oliveira, altura do nº336",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "bombinhas_lagoa_do_faxinal_p3",
+    "praia": "Lagoa Do Faxinal",
+    "municipio": "Bombinhas",
+    "municipio_slug": "bombinhas",
+    "ponto_num": 3,
+    "descricao": "Em frente ao Parque Verde",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "bombinhas_lagoa_dos_esteves_p2",
+    "praia": "Lagoa Dos Esteves",
+    "municipio": "Bombinhas",
+    "municipio_slug": "bombinhas",
+    "ponto_num": 2,
+    "descricao": "Próximo ao trapiche",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "bombinhas_lagoa_dos_freitas_p1",
+    "praia": "Lagoa Dos Freitas",
+    "municipio": "Bombinhas",
+    "municipio_slug": "bombinhas",
+    "ponto_num": 1,
+    "descricao": "Em frente à Rua Camboriú - Próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "bombinhas_praia_da_barra_velha_p1",
+    "praia": "Praia Da Barra Velha",
+    "municipio": "Bombinhas",
+    "municipio_slug": "bombinhas",
+    "ponto_num": 1,
+    "descricao": "Em frente à Avenida Armando Petrelli, altura do nº555",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "bombinhas_praia_da_barra_velha_p2",
+    "praia": "Praia Da Barra Velha",
+    "municipio": "Bombinhas",
+    "municipio_slug": "bombinhas",
+    "ponto_num": 2,
+    "descricao": "Em frente à Rua Humberto Pimentel",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "bombinhas_praia_da_barra_velha_p3",
+    "praia": "Praia Da Barra Velha",
+    "municipio": "Bombinhas",
+    "municipio_slug": "bombinhas",
+    "ponto_num": 3,
+    "descricao": "Em frente à Rua Antônia Higina da Graça Moura",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "bombinhas_praia_de_bombas_p2",
+    "praia": "Praia De Bombas",
+    "municipio": "Bombinhas",
+    "municipio_slug": "bombinhas",
+    "ponto_num": 2,
+    "descricao": "Em frente à Rua Martin Pescador",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "bombinhas_praia_de_bombas_p4",
+    "praia": "Praia De Bombas",
+    "municipio": "Bombinhas",
+    "municipio_slug": "bombinhas",
+    "ponto_num": 4,
+    "descricao": "Em frente à Rua Tiriba",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "bombinhas_praia_de_bombas_p5",
+    "praia": "Praia De Bombas",
+    "municipio": "Bombinhas",
+    "municipio_slug": "bombinhas",
+    "ponto_num": 5,
+    "descricao": "Em frente à Rua Ariramba, esquerda do riacho",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "bombinhas_praia_de_bombinhas_p1",
+    "praia": "Praia De Bombinhas",
+    "municipio": "Bombinhas",
+    "municipio_slug": "bombinhas",
+    "ponto_num": 1,
+    "descricao": "Em frente à Servidão Avenida Vereador Manoel José dos Santos, altura n°1.149",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "bombinhas_praia_de_bombinhas_p6",
+    "praia": "Praia De Bombinhas",
+    "municipio": "Bombinhas",
+    "municipio_slug": "bombinhas",
+    "ponto_num": 6,
+    "descricao": "No canto direito da praia, próximo ao riacho",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "bombinhas_praia_de_bombinhas_p7",
+    "praia": "Praia De Bombinhas",
+    "municipio": "Bombinhas",
+    "municipio_slug": "bombinhas",
+    "ponto_num": 7,
+    "descricao": "Em frente à Rua Castanheta",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "bombinhas_praia_de_sao_miguel_p1",
+    "praia": "Praia De São Miguel",
+    "municipio": "Bombinhas",
+    "municipio_slug": "bombinhas",
+    "ponto_num": 1,
+    "descricao": "em frente ao aqueduto",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "bombinhas_praia_de_zimbros_p9",
+    "praia": "Praia De Zimbros",
+    "municipio": "Bombinhas",
+    "municipio_slug": "bombinhas",
+    "ponto_num": 9,
+    "descricao": "Em frente à Rua Rio Madeira",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "bombinhas_praia_do_canto_grande_p8",
+    "praia": "Praia Do Canto Grande",
+    "municipio": "Bombinhas",
+    "municipio_slug": "bombinhas",
+    "ponto_num": 8,
+    "descricao": "Em frente à Rua Jequiti, próximo ao trapiche",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "bombinhas_praia_do_cerro_p6",
+    "praia": "Praia Do Cerro",
+    "municipio": "Bombinhas",
+    "municipio_slug": "bombinhas",
+    "ponto_num": 6,
+    "descricao": "Entre as ruas Chapeco e Maria Athanasia da Costa Chaves",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "bombinhas_praia_do_rincao_p4",
+    "praia": "Praia Do Rincão",
+    "municipio": "Bombinhas",
+    "municipio_slug": "bombinhas",
+    "ponto_num": 4,
+    "descricao": "Na Rua Paraná, em frente ao Calçadão",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "bombinhas_praia_do_rincao_p5",
+    "praia": "Praia Do Rincão",
+    "municipio": "Bombinhas",
+    "municipio_slug": "bombinhas",
+    "ponto_num": 5,
+    "descricao": "Arroio da Praia do Rincão - No Arroio",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "bombinhas_praia_do_rincao_p6",
+    "praia": "Praia Do Rincão",
+    "municipio": "Bombinhas",
+    "municipio_slug": "bombinhas",
+    "ponto_num": 6,
+    "descricao": "Em frente à Rua Castro Alves",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "bombinhas_praia_do_rincao_p7",
+    "praia": "Praia Do Rincão",
+    "municipio": "Bombinhas",
+    "municipio_slug": "bombinhas",
+    "ponto_num": 7,
+    "descricao": "Em frente à Rua Manoel José Magé",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "bombinhas_praia_do_rincao_p8",
+    "praia": "Praia Do Rincão",
+    "municipio": "Bombinhas",
+    "municipio_slug": "bombinhas",
+    "ponto_num": 8,
+    "descricao": "100 metros ao norte do Arroio",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_lagoa_da_conceicao_p37",
+    "praia": "Lagoa Da Conceição",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 37,
+    "descricao": "Em frente à Servidão Pedro Manuel Fernandes",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_lagoa_da_conceicao_p38",
+    "praia": "Lagoa Da Conceição",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 38,
+    "descricao": "NOS TRAPICHES DOS SERVIÇOS DE TRANSPORTES",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_lagoa_da_conceicao_p39",
+    "praia": "Lagoa Da Conceição",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 39,
+    "descricao": "Em frente à Rua de acesso à Praia da Joaquina",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_lagoa_da_conceicao_p41",
+    "praia": "Lagoa Da Conceição",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 41,
+    "descricao": "No canto da Lagoa, ao lado do Posto de Saúde",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_lagoa_da_conceicao_p43",
+    "praia": "Lagoa Da Conceição",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 43,
+    "descricao": "Em frente ao acesso para o Rio Tavares",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_lagoa_da_conceicao_p61",
+    "praia": "Lagoa Da Conceição",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 61,
+    "descricao": "Em frente à Avenida das Rendeiras, altura n°1480",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_lagoa_da_conceicao_p62",
+    "praia": "Lagoa Da Conceição",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 62,
+    "descricao": "FRENTE A RUA MANUEL ISIDORO DA SILVEIRA",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_lagoa_da_conceicao_p66",
+    "praia": "Lagoa Da Conceição",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 66,
+    "descricao": "ALTURA DO Nº 2267 DA AV. OSNI ORTIGA",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_lagoa_da_conceicao_p72",
+    "praia": "Lagoa Da Conceição",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 72,
+    "descricao": "Em frente à Rua Canto da Amizade",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_lagoa_da_conceicao_p96",
+    "praia": "Lagoa Da Conceição",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 96,
+    "descricao": "FRENTE A RUA ORLANDO CARIONI, ALTURA DO Nº 94",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_lagoa_da_conceicao_p97",
+    "praia": "Lagoa Da Conceição",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 97,
+    "descricao": "Na Rua Vereador Osni Ortiga, em frente à Servidão Das Cicas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_lagoa_do_peri_p74",
+    "praia": "Lagoa Do Peri",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 74,
+    "descricao": "Na Lagoa do Peri, em frente à sede do Parque",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_brava_p24",
+    "praia": "Praia Brava",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 24,
+    "descricao": "PRÓXIMO À FOZ DO RIACHO (COSTÃO SUL, NO MAR)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_brava_p25",
+    "praia": "Praia Brava",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 25,
+    "descricao": "Em frente a Rua Sinésio Duarte, ao lado do Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_brava_p69",
+    "praia": "Praia Brava",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 69,
+    "descricao": "NO RIACHO",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_brava_p79",
+    "praia": "Praia Brava",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 79,
+    "descricao": "Em frente à rotatoria, no início da Avenida Traugott Wildi",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_da_armacao_do_pantano_do_sul_p44",
+    "praia": "Praia Da Armação Do Pântano Do Sul",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 44,
+    "descricao": "EM FRENTE A IGREJA DA VILA",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_da_armacao_do_pantano_do_sul_p64",
+    "praia": "Praia Da Armação Do Pântano Do Sul",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 64,
+    "descricao": "Na Foz do Rio Sangradouro (no rio)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_da_armacao_do_pantano_do_sul_p92",
+    "praia": "Praia Da Armação Do Pântano Do Sul",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 92,
+    "descricao": "Em frente à Lagoa do Peri, Praia do Caldeirão",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_da_barra_da_lagoa_p32",
+    "praia": "Praia Da Barra Da Lagoa",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 32,
+    "descricao": "Aproximadamente 50 metros à esquerda dos molhes",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_da_barra_da_lagoa_p88",
+    "praia": "Praia Da Barra Da Lagoa",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 88,
+    "descricao": "Em frente à Rua Aconchego do Mar",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_da_base_aerea_p49",
+    "praia": "Praia Da Base Aérea",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 49,
+    "descricao": "AO LADO DO TRAPICHE",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_da_beira_mar_norte_p11",
+    "praia": "Praia Da Beira Mar Norte",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 11,
+    "descricao": "EM FRENTE AO MONUMENTO DA POLÍCIA MILITAR",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_da_beira_mar_norte_p94",
+    "praia": "Praia Da Beira Mar Norte",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 94,
+    "descricao": "Em frente à Praça Esteves Junior",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_da_beira_mar_norte_p95",
+    "praia": "Praia Da Beira Mar Norte",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 95,
+    "descricao": "Em frente à Rua Altamiro Guimarães",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_da_cachoeira_do_bom_jesus_p56",
+    "praia": "Praia Da Cachoeira Do Bom Jesus",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 56,
+    "descricao": "Em frente ao trevo dos Inglêses",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_da_cachoeira_do_bom_jesus_p80",
+    "praia": "Praia Da Cachoeira Do Bom Jesus",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 80,
+    "descricao": "Em frente à Rua Deputado Otacílio Costa",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_da_caiacangacu_p63",
+    "praia": "Praia Da Caiacangaçú",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 63,
+    "descricao": "ALTURA Nº 12.820 DA ESTRADA GERAL DO RIBEIRÃO",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_da_daniela_p16",
+    "praia": "Praia Da Daniela",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 16,
+    "descricao": "Em frente à Rua dos Cactos",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_da_daniela_p84",
+    "praia": "Praia Da Daniela",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 84,
+    "descricao": "Em frente à Rua das Hortências",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_da_joaquina_p33",
+    "praia": "Praia Da Joaquina",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 33,
+    "descricao": "Em frente ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_da_lagoinha_p26",
+    "praia": "Praia Da Lagoinha",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 26,
+    "descricao": "À esquerda da saída da Lagoa",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_da_lagoinha_p86",
+    "praia": "Praia Da Lagoinha",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 86,
+    "descricao": "Estrada Jornalista Jaime de Arruda Ramos, altura do n°1946 A",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_da_saudade_p4",
+    "praia": "Praia Da Saudade",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 4,
+    "descricao": "No canto esquerdo da praia",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_da_solidao_p65",
+    "praia": "Praia Da Solidão",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 65,
+    "descricao": "Na Foz do Rio das Pacas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_da_tapera_p48",
+    "praia": "Praia Da Tapera",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 48,
+    "descricao": "NO MEIO DA PRAIA",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_das_palmeiras_p7",
+    "praia": "Praia Das Palmeiras",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 7,
+    "descricao": "NO MEIO DA PRAIA",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_bombas_p5",
+    "praia": "Praia De Bombas",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 5,
+    "descricao": "Em frente à Rua Ariramba, esquerda do riacho",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_bombinhas_p1",
+    "praia": "Praia De Bombinhas",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 1,
+    "descricao": "Em frente à Servidão Avenida Vereador Manoel José dos Santos, altura n°1.149",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_bombinhas_p6",
+    "praia": "Praia De Bombinhas",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 6,
+    "descricao": "No canto direito da praia, próximo ao riacho",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_bombinhas_p7",
+    "praia": "Praia De Bombinhas",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 7,
+    "descricao": "Em frente à Rua Castanheta",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_canajure_p68",
+    "praia": "Praia De Canajurê",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 68,
+    "descricao": "Em frente à Rua Servidão Valdemar Medeiros",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_canasvieiras_p20",
+    "praia": "Praia De Canasvieiras",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 20,
+    "descricao": "EM FRENTE À RUA DAS FLÔRES",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_canasvieiras_p21",
+    "praia": "Praia De Canasvieiras",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 21,
+    "descricao": "EM FRENTE A AVENIDA DAS NAÇÕES",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_canasvieiras_p22",
+    "praia": "Praia De Canasvieiras",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 22,
+    "descricao": "LADO ESQUERDO DO TRAPICHE",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_canasvieiras_p55",
+    "praia": "Praia De Canasvieiras",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 55,
+    "descricao": "Em frente à Rua Heitor Bitencourt",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_canasvieiras_p59",
+    "praia": "Praia De Canasvieiras",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 59,
+    "descricao": "Em frente à Rua Acary Margarida",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_canasvieiras_p60",
+    "praia": "Praia De Canasvieiras",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 60,
+    "descricao": "CANTO ESQUERDO DA PRAIA PRÓX. AS PEDRAS",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_canasvieiras_p81",
+    "praia": "Praia De Canasvieiras",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 81,
+    "descricao": "Em frente à Rua Afonso Cardoso da Veiga",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_canasvieiras_p82",
+    "praia": "Praia De Canasvieiras",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 82,
+    "descricao": "Em frente à Rua José Daux",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_jurere_p18",
+    "praia": "Praia De Jurere",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 18,
+    "descricao": "Em frente à Rua das Moreias",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_jurere_p19",
+    "praia": "Praia De Jurere",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 19,
+    "descricao": "Em frente à Rodovia Maurício Sirotski Sobrinho",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_jurere_p54",
+    "praia": "Praia De Jurere",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 54,
+    "descricao": "Em frente à Rua Luis Rampa",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_jurere_p68",
+    "praia": "Praia De Jurere",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 68,
+    "descricao": "FRENTE A RUA VALDEMAR MEDEIROS",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_jurere_p76",
+    "praia": "Praia De Jurere",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 76,
+    "descricao": "Final da Av. dos Buzios, frente a rotatoria sentido Praia do Forte",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_jurere_internacional_p53",
+    "praia": "Praia De Jurere Internacional",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 53,
+    "descricao": "Em frente à Avenida dos Salmões",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_jurere_internacional_p85",
+    "praia": "Praia De Jurere Internacional",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 85,
+    "descricao": "Em frente à Avenida dos Pampos",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_morrinhos_p11",
+    "praia": "Praia De Morrinhos",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 11,
+    "descricao": "Frente à Rua Almíscar",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_ponta_das_canas_p23",
+    "praia": "Praia De Ponta Das Canas",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 23,
+    "descricao": "100 METROS À ESQUERDA DA IGREJA",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_ponta_das_canas_p67",
+    "praia": "Praia De Ponta Das Canas",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 67,
+    "descricao": "Estrada Geral de Ponta das Canas, altura do n°5.281, na Lagoa",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_ponta_das_canas_p70",
+    "praia": "Praia De Ponta Das Canas",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 70,
+    "descricao": "Em frente à Rua Alcina Jannis",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_ponta_das_canas_p83",
+    "praia": "Praia De Ponta Das Canas",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 83,
+    "descricao": "Em frente à Rua Alcina Jannis, no canal",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_quatro_ilhas_p16",
+    "praia": "Praia De Quatro Ilhas",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 16,
+    "descricao": "Frente à Rua Ilha Itamaracá",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_sambaqui_p14",
+    "praia": "Praia De Sambaqui",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 14,
+    "descricao": "Em frente à Rua Servidão Paraíso das Flores",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_sambaqui_p15",
+    "praia": "Praia De Sambaqui",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 15,
+    "descricao": "Na Ponta do Sambaqui",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_santo_antonio_de_lisboa_p12",
+    "praia": "Praia De Santo Antônio De Lisboa",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 12,
+    "descricao": "Em frente à Praça Roldão da Rocha Pires",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_santo_antonio_de_lisboa_p13",
+    "praia": "Praia De Santo Antônio De Lisboa",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 13,
+    "descricao": "Em frente à Servidão Hipólito Machado",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_zimbros_p9",
+    "praia": "Praia De Zimbros",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 9,
+    "descricao": "Em frente à Rua Rio Madeira",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_de_zimbros_p10",
+    "praia": "Praia De Zimbros",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 10,
+    "descricao": "Em frente à Rua Ijuí",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_balneario_p2",
+    "praia": "Praia Do Balneário",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 2,
+    "descricao": "EM FRENTE À RUA JOSÉ CÂNDIDO DA SILVA",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_bom_abrigo_p8",
+    "praia": "Praia Do Bom Abrigo",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 8,
+    "descricao": "Em frente à Rua Teófilo Almeida",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_cacupe_p9",
+    "praia": "Praia Do Cacupé",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 9,
+    "descricao": "Próximo ao n°4000 da Rodovia Haroldo Soares Glavan",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_cacupe_p10",
+    "praia": "Praia Do Cacupé",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 10,
+    "descricao": "NO MEIO DA PRAIA",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_campeche_p35",
+    "praia": "Praia Do Campeche",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 35,
+    "descricao": "Em frente à Avenida Pequeno Príncipe",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_campeche_p73",
+    "praia": "Praia Do Campeche",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 73,
+    "descricao": "RIOZINHO ( NO RIO ) FTE A SERV. FAMÍLIA NUNES",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_campeche_p75",
+    "praia": "Praia Do Campeche",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 75,
+    "descricao": "100 m a direita do Riozinho (no mar)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_campeche_p89",
+    "praia": "Praia Do Campeche",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 89,
+    "descricao": "Rua Jerônimo Venâncio das Chagas, em frente à passarela de acesso",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_campeche_p90",
+    "praia": "Praia Do Campeche",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 90,
+    "descricao": "Nas Areias do Campeche, em frente à Rua Lomba do Sabão",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_canto_grande_p8",
+    "praia": "Praia Do Canto Grande",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 8,
+    "descricao": "Em frente à Rua Jequiti, próximo ao trapiche",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_canto_grande_p13",
+    "praia": "Praia Do Canto Grande",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 13,
+    "descricao": "Frente à Rua Jacarandá",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_canto_grande_mar_de_fora_p13",
+    "praia": "Praia Do Canto Grande (Mar De Fora)",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 13,
+    "descricao": "Frente à Rua Jacarandá",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_canto_grande_mar_de_fora_p14",
+    "praia": "Praia Do Canto Grande (Mar De Fora)",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 14,
+    "descricao": "Em frente à Rua Canela",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_canto_grande_mar_de_fora_p15",
+    "praia": "Praia Do Canto Grande (Mar De Fora)",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 15,
+    "descricao": "Em frente à Rua Acácia Negra",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_conceicao_p12",
+    "praia": "Praia Do Conceição",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 12,
+    "descricao": "Frente à Rua Palmeira",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_forte_p17",
+    "praia": "Praia Do Forte",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 17,
+    "descricao": "Na entrada da Praia",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_itaguacu_p6",
+    "praia": "Praia Do Itaguaçu",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 6,
+    "descricao": "Na Rua Desembargador Pedro Silva, em frente ao n°3130",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_jardim_atlantico_p1",
+    "praia": "Praia Do Jardim Atlântico",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 1,
+    "descricao": "Em frente à Rua Elesbão Pinto da Luz",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_jose_mendes_p52",
+    "praia": "Praia Do José Mendes",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 52,
+    "descricao": "No meio da Praia, em frente ao n°263",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_mariscal_p3",
+    "praia": "Praia Do Mariscal",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 3,
+    "descricao": "Em frente à Avenida Água Marinha, altura do nº 3.244",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_mariscal_p14",
+    "praia": "Praia Do Mariscal",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 14,
+    "descricao": "Frente à Rua Canela",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_mariscal_p15",
+    "praia": "Praia Do Mariscal",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 15,
+    "descricao": "Frente à Rua Acácia Negra",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_matadouro_p3",
+    "praia": "Praia Do Matadouro",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 3,
+    "descricao": "Em frente a Rua Belmira Isabel Martins",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_meio_p5",
+    "praia": "Praia Do Meio",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 5,
+    "descricao": "No meio da Praia, em frente ao n°2392 Coqueiros",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_mocambique_p87",
+    "praia": "Praia Do Mocambique",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 87,
+    "descricao": "Na Rodovia SC 406, altura do km 10.5, em frente ao acesso",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_morro_das_pedras_p91",
+    "praia": "Praia Do Morro Das Pedras",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 91,
+    "descricao": "Na Rodovia Francisco Thomaz dos Santos (SC 406), n°2089",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_pantano_do_sul_p45",
+    "praia": "Praia Do Pantano Do Sul",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 45,
+    "descricao": "Em frente à Rua Abelardo Otacílio Gomes",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_pantano_do_sul_p93",
+    "praia": "Praia Do Pantano Do Sul",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 93,
+    "descricao": "Em frente à Rua José Corrêa Hulse",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_retiro_dos_padres_p17",
+    "praia": "Praia Do Retiro Dos Padres",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 17,
+    "descricao": "Final da Avenida Das Garoupas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_ribeirao_da_ilha_p47",
+    "praia": "Praia Do Ribeirão Da Ilha",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 47,
+    "descricao": "Em frente à Travessa Sábino da Silva",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_do_santinho_p31",
+    "praia": "Praia Do Santinho",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 31,
+    "descricao": "Na Rua Raul Pereira Caldas, em frente ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_dos_ingleses_p27",
+    "praia": "Praia Dos Ingleses",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 27,
+    "descricao": "Em frente à Rua Brisamar, ao lado do Rio Capivarí",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_dos_ingleses_p28",
+    "praia": "Praia Dos Ingleses",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 28,
+    "descricao": "Estrada Dom João Becker, em frente ao n°355",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_dos_ingleses_p29",
+    "praia": "Praia Dos Ingleses",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 29,
+    "descricao": "Em frente à Rua da Igreja",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_dos_ingleses_p57",
+    "praia": "Praia Dos Ingleses",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 57,
+    "descricao": "Em frente à Rua Ruth Pereira (Rua do Sirí)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_dos_ingleses_p58",
+    "praia": "Praia Dos Ingleses",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 58,
+    "descricao": "Em frente à Rua Dante de Pata",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_dos_ingleses_p77",
+    "praia": "Praia Dos Ingleses",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 77,
+    "descricao": "Em frente à Rua Morro das Feiticeiras, no canto esquerdo",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "florianopolis_praia_dos_ingleses_p78",
+    "praia": "Praia Dos Ingleses",
+    "municipio": "Florianópolis",
+    "municipio_slug": "florianopolis",
+    "ponto_num": 78,
+    "descricao": "Estrada Dom João Becker, em frente ao n°305 B (tubulação, a esquerda do ponto 28)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "garopaba_lagoa_da_ferrugem_p4",
+    "praia": "Lagoa Da Ferrugem",
+    "municipio": "Garopaba",
+    "municipio_slug": "garopaba",
+    "ponto_num": 4,
+    "descricao": "Estrada Geral da Ferrugem, à direita do acesso principal",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "garopaba_praia_da_vigia_p5",
+    "praia": "Praia Da Vigia",
+    "municipio": "Garopaba",
+    "municipio_slug": "garopaba",
+    "ponto_num": 5,
+    "descricao": "Em frente ao acesso principal",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "garopaba_praia_de_garopaba_p1",
+    "praia": "Praia De Garopaba",
+    "municipio": "Garopaba",
+    "municipio_slug": "garopaba",
+    "ponto_num": 1,
+    "descricao": "Em frente à praça",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "garopaba_praia_do_campeche_p89",
+    "praia": "Praia Do Campeche",
+    "municipio": "Garopaba",
+    "municipio_slug": "garopaba",
+    "ponto_num": 89,
+    "descricao": "Rua Jerônimo Venâncio das Chagas, em frente à passarela de acesso",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "garopaba_praia_do_campeche_p90",
+    "praia": "Praia Do Campeche",
+    "municipio": "Garopaba",
+    "municipio_slug": "garopaba",
+    "ponto_num": 90,
+    "descricao": "Nas Areias do Campeche, em frente à Rua Lomba do Sabão",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "garopaba_praia_do_forte_p17",
+    "praia": "Praia Do Forte",
+    "municipio": "Garopaba",
+    "municipio_slug": "garopaba",
+    "ponto_num": 17,
+    "descricao": "NA ENTRADA DA PRAIA",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "garopaba_praia_do_itaguacu_p6",
+    "praia": "Praia Do Itaguaçu",
+    "municipio": "Garopaba",
+    "municipio_slug": "garopaba",
+    "ponto_num": 6,
+    "descricao": "Na Rua Desembargador Pedro Silva, em frente ao n°3130",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "garopaba_praia_do_jardim_atlantico_p1",
+    "praia": "Praia Do Jardim Atlântico",
+    "municipio": "Garopaba",
+    "municipio_slug": "garopaba",
+    "ponto_num": 1,
+    "descricao": "Em frente à Rua Elesbão Pinto da Luz",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "garopaba_praia_do_jose_mendes_p52",
+    "praia": "Praia Do José Mendes",
+    "municipio": "Garopaba",
+    "municipio_slug": "garopaba",
+    "ponto_num": 52,
+    "descricao": "No meio da Praia, em frente ao n°263",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "garopaba_praia_do_matadouro_p3",
+    "praia": "Praia Do Matadouro",
+    "municipio": "Garopaba",
+    "municipio_slug": "garopaba",
+    "ponto_num": 3,
+    "descricao": "Em frente a Rua Belmira Isabel Martins",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "garopaba_praia_do_meio_p5",
+    "praia": "Praia Do Meio",
+    "municipio": "Garopaba",
+    "municipio_slug": "garopaba",
+    "ponto_num": 5,
+    "descricao": "No meio da Praia, em frente ao n°2392 Coqueiros",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "garopaba_praia_do_mocambique_p87",
+    "praia": "Praia Do Mocambique",
+    "municipio": "Garopaba",
+    "municipio_slug": "garopaba",
+    "ponto_num": 87,
+    "descricao": "Na Rodovia SC 406, altura do km 10.5, em frente ao acesso",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "garopaba_praia_do_morro_das_pedras_p91",
+    "praia": "Praia Do Morro Das Pedras",
+    "municipio": "Garopaba",
+    "municipio_slug": "garopaba",
+    "ponto_num": 91,
+    "descricao": "Na Rodovia Francisco Thomaz dos Santos (SC 406), n°2089",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "garopaba_praia_do_pantano_do_sul_p45",
+    "praia": "Praia Do Pantano Do Sul",
+    "municipio": "Garopaba",
+    "municipio_slug": "garopaba",
+    "ponto_num": 45,
+    "descricao": "Em frente à Rua Abelardo Otacílio Gomes",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "garopaba_praia_do_pantano_do_sul_p93",
+    "praia": "Praia Do Pantano Do Sul",
+    "municipio": "Garopaba",
+    "municipio_slug": "garopaba",
+    "ponto_num": 93,
+    "descricao": "Em frente à Rua Algas Marinhas - A",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "garopaba_praia_do_ribeirao_da_ilha_p47",
+    "praia": "Praia Do Ribeirão Da Ilha",
+    "municipio": "Garopaba",
+    "municipio_slug": "garopaba",
+    "ponto_num": 47,
+    "descricao": "Em frente à Travessa Sábino da Silva",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "garopaba_praia_do_santinho_p31",
+    "praia": "Praia Do Santinho",
+    "municipio": "Garopaba",
+    "municipio_slug": "garopaba",
+    "ponto_num": 31,
+    "descricao": "Na Rua Raul Pereira Caldas, em frente ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "garopaba_praia_dos_ingleses_p27",
+    "praia": "Praia Dos Ingleses",
+    "municipio": "Garopaba",
+    "municipio_slug": "garopaba",
+    "ponto_num": 27,
+    "descricao": "Em frente à Rua Brisamar, ao lado do Rio Capivarí",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "garopaba_praia_dos_ingleses_p28",
+    "praia": "Praia Dos Ingleses",
+    "municipio": "Garopaba",
+    "municipio_slug": "garopaba",
+    "ponto_num": 28,
+    "descricao": "Estrada Dom João Becker, em frente ao n°355",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "garopaba_praia_dos_ingleses_p29",
+    "praia": "Praia Dos Ingleses",
+    "municipio": "Garopaba",
+    "municipio_slug": "garopaba",
+    "ponto_num": 29,
+    "descricao": "EM FRENTE À RUA DA IGREJA",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "garopaba_praia_dos_ingleses_p57",
+    "praia": "Praia Dos Ingleses",
+    "municipio": "Garopaba",
+    "municipio_slug": "garopaba",
+    "ponto_num": 57,
+    "descricao": "Em frente à Rua Ruth Pereira (Rua do Sirí)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "garopaba_praia_dos_ingleses_p58",
+    "praia": "Praia Dos Ingleses",
+    "municipio": "Garopaba",
+    "municipio_slug": "garopaba",
+    "ponto_num": 58,
+    "descricao": "Em frente à Rua Dante de Pata",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "garopaba_praia_dos_ingleses_p77",
+    "praia": "Praia Dos Ingleses",
+    "municipio": "Garopaba",
+    "municipio_slug": "garopaba",
+    "ponto_num": 77,
+    "descricao": "Em frente à Rua Morro das Feiticeiras, no canto esquerdo",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "garopaba_praia_dos_ingleses_p78",
+    "praia": "Praia Dos Ingleses",
+    "municipio": "Garopaba",
+    "municipio_slug": "garopaba",
+    "ponto_num": 78,
+    "descricao": "Estrada Dom João Becker, em frente ao n°305 B (tubulação, a esquerda do ponto 28)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "garopaba_praia_mole_p71",
+    "praia": "Praia Mole",
+    "municipio": "Garopaba",
+    "municipio_slug": "garopaba",
+    "ponto_num": 71,
+    "descricao": "Acesso principal, em frente a Estátua do Surfista",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_lagoa_da_ferrugem_p4",
+    "praia": "Lagoa Da Ferrugem",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 4,
+    "descricao": "A DIREITA DO ACESSO PRINCIPAL – ESTRADA GERAL DA FERRUGEM",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_da_armacao_da_piedade_p1",
+    "praia": "Praia Da Armação Da Piedade",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 1,
+    "descricao": "No meio da praia",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_da_baia_dos_golfinhos_p3",
+    "praia": "Praia Da Baia Dos Golfinhos",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 3,
+    "descricao": "À direita do trapiche",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_da_camboa_p9",
+    "praia": "Praia Da Camboa",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 9,
+    "descricao": "Na Rua Flamboiam",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_da_fazenda_da_armacao_p7",
+    "praia": "Praia Da Fazenda Da Armação",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 7,
+    "descricao": "Na Rua Gregório Monteiro",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_da_fazenda_da_armacao_p8",
+    "praia": "Praia Da Fazenda Da Armação",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 8,
+    "descricao": "Na Rua Gerino Belmiro dos Santos - próximo ao riacho",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_da_vigia_p5",
+    "praia": "Praia Da Vigia",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 5,
+    "descricao": "Em frente ao acesso principal",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_das_cordas_p23",
+    "praia": "Praia Das Cordas",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 23,
+    "descricao": "Em frente ao acesso de veículos",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_de_calheiros_p16",
+    "praia": "Praia De Calheiros",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 16,
+    "descricao": "No canto esquerdo da Praia",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_de_canto_de_ganchos_p12",
+    "praia": "Praia De Canto De Ganchos",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 12,
+    "descricao": "Na Rua Deodoro Simas Custodio, esquerda do riacho",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_de_ganchos_p13",
+    "praia": "Praia De Ganchos",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 13,
+    "descricao": "Na Avenida Ganchos, altura nº1008, à direita do trapiche",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_de_ganchos_de_fora_p15",
+    "praia": "Praia De Ganchos De Fora",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 15,
+    "descricao": "Em frente à vala de drenagem da Rua dos Navegantes (no mar)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_de_garopaba_p1",
+    "praia": "Praia De Garopaba",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 1,
+    "descricao": "Em frente à praça",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_de_garopaba_p2",
+    "praia": "Praia De Garopaba",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 2,
+    "descricao": "Na Rua Lauro Severiano Muller",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_de_palmas_p2",
+    "praia": "Praia De Palmas",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 2,
+    "descricao": "Avenida Aderbal Ramos da Silva, em frente ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_de_palmas_p11",
+    "praia": "Praia De Palmas",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 11,
+    "descricao": "Em frente a Rua 51, esquerda Alameda das Laranjeiras, próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_de_palmas_p14",
+    "praia": "Praia De Palmas",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 14,
+    "descricao": "Em frente à Rua das Samambaias",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_do_antenor_p4",
+    "praia": "Praia Do Antenor",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 4,
+    "descricao": "no meio da praia",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_do_antenor_p5",
+    "praia": "Praia Do Antenor",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 5,
+    "descricao": "No canto esquerdo, em frente ao riacho",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_do_magalhaes_p6",
+    "praia": "Praia Do Magalhães",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 6,
+    "descricao": "Na Rua Beija Flor, em frente à rampa",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_do_santinho_p31",
+    "praia": "Praia Do Santinho",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 31,
+    "descricao": "Na Rua Raul Pereira Caldas, em frente ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_do_siriu_p3",
+    "praia": "Praia Do Siriú",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 3,
+    "descricao": "Estrada Geral da Praia do Siriú",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_dos_ingleses_p27",
+    "praia": "Praia Dos Ingleses",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 27,
+    "descricao": "Em frente à Rua Recanto do Sol, à esquerda do Rio Capivarí",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_dos_ingleses_p28",
+    "praia": "Praia Dos Ingleses",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 28,
+    "descricao": "Estrada Dom João Becker, em frente ao n°355",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_dos_ingleses_p29",
+    "praia": "Praia Dos Ingleses",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 29,
+    "descricao": "Em frente à Rua da Igreja",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_dos_ingleses_p57",
+    "praia": "Praia Dos Ingleses",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 57,
+    "descricao": "Em frente à Rua Ruth Pereira (Rua do Sirí)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_dos_ingleses_p58",
+    "praia": "Praia Dos Ingleses",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 58,
+    "descricao": "Em frente à Rua Dante de Pata",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_dos_ingleses_p77",
+    "praia": "Praia Dos Ingleses",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 77,
+    "descricao": "Em frente à Rua Morro das Feiticeiras, no canto esquerdo",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_dos_ingleses_p78",
+    "praia": "Praia Dos Ingleses",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 78,
+    "descricao": "Estrada Dom João Becker, em frente ao n°305 B (tubulação, a esquerda do ponto 28)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_dos_ingleses_p98",
+    "praia": "Praia Dos Ingleses",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 98,
+    "descricao": "Na foz do Rio Capivarí (no rio)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_grande_p10",
+    "praia": "Praia Grande",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 10,
+    "descricao": "Na Avenida Caravelas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "governador_celso_ramos_praia_mole_p71",
+    "praia": "Praia Mole",
+    "municipio": "Governador Celso Ramos",
+    "municipio_slug": "governador_celso_ramos",
+    "ponto_num": 71,
+    "descricao": "Acesso principal, em frente a Estátua do Surfista",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_lagoa_da_ferrugem_p4",
+    "praia": "Lagoa Da Ferrugem",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 4,
+    "descricao": "A DIREITA DO ACESSO PRINCIPAL – ESTRADA GERAL DA FERRUGEM",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_lagoa_de_ibiraquera_p2",
+    "praia": "Lagoa De Ibiraquera",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 2,
+    "descricao": "Próximo à foz da Lagoa",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_da_armacao_da_piedade_p1",
+    "praia": "Praia Da Armação Da Piedade",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 1,
+    "descricao": "No meio da praia",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_da_baia_dos_golfinhos_p3",
+    "praia": "Praia Da Baia Dos Golfinhos",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 3,
+    "descricao": "À direita do trapiche",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_da_camboa_p9",
+    "praia": "Praia Da Camboa",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 9,
+    "descricao": "Na Rua Flamboiam",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_da_fazenda_da_armacao_p7",
+    "praia": "Praia Da Fazenda Da Armação",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 7,
+    "descricao": "Na Rua Gregório Monteiro",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_da_fazenda_da_armacao_p8",
+    "praia": "Praia Da Fazenda Da Armação",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 8,
+    "descricao": "Na Rua Gerino Belmiro dos Santos - próximo ao riacho",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_da_gamboa_p9",
+    "praia": "Praia Da Gamboa",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 9,
+    "descricao": "Rua Flamboiam",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_da_ribanceira_p4",
+    "praia": "Praia Da Ribanceira",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 4,
+    "descricao": "Rua Joao Martins, em frente ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_da_vigia_p5",
+    "praia": "Praia Da Vigia",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 5,
+    "descricao": "FTE ACESSO PRINCIPAL",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_da_vila_nova_p6",
+    "praia": "Praia Da Vila Nova",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 6,
+    "descricao": "Na Rua Francisco Moreira Alves",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_da_vila_nova_p7",
+    "praia": "Praia Da Vila Nova",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 7,
+    "descricao": "Na Rua Hans de Schimidt",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_das_cordas_p23",
+    "praia": "Praia Das Cordas",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 23,
+    "descricao": "Em frente ao acesso de veículos",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_de_calheiros_p16",
+    "praia": "Praia De Calheiros",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 16,
+    "descricao": "No canto esquerdo da Praia",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_de_canto_de_ganchos_p12",
+    "praia": "Praia De Canto De Ganchos",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 12,
+    "descricao": "Na Rua Deodoro Simas Custodio, esquerda do riacho",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_de_ganchos_p13",
+    "praia": "Praia De Ganchos",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 13,
+    "descricao": "Na Avenida Ganchos, altura nº1008, à direita do trapiche",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_de_ganchos_de_fora_p15",
+    "praia": "Praia De Ganchos De Fora",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 15,
+    "descricao": "Em frente à vala de drenagem da Rua dos Navegantes (no mar)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_de_garopaba_p1",
+    "praia": "Praia De Garopaba",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 1,
+    "descricao": "Em frente à praça",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_de_garopaba_p2",
+    "praia": "Praia De Garopaba",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 2,
+    "descricao": "Na Rua Lauro Severiano Muller",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_de_palmas_p2",
+    "praia": "Praia De Palmas",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 2,
+    "descricao": "Avenida Aderbal Ramos da Silva, em frente ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_de_palmas_p11",
+    "praia": "Praia De Palmas",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 11,
+    "descricao": "Em frente a Rua 51, esquerda Alameda das Laranjeiras, próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_de_palmas_p14",
+    "praia": "Praia De Palmas",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 14,
+    "descricao": "Em frente à Rua das Samambaias",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_de_palmas_p17",
+    "praia": "Praia De Palmas",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 17,
+    "descricao": "Em frente à Rua das Anchovas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_de_palmas_p18",
+    "praia": "Praia De Palmas",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 18,
+    "descricao": "Em frente à Rua dos Robalos, na passarela",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_de_palmas_p19",
+    "praia": "Praia De Palmas",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 19,
+    "descricao": "Em frente à Rua dos Lírios",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_de_palmas_p20",
+    "praia": "Praia De Palmas",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 20,
+    "descricao": "Na altura do n°819 da Avenida Atlântica",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_do_antenor_p4",
+    "praia": "Praia Do Antenor",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 4,
+    "descricao": "no meio da praia",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_do_antenor_p5",
+    "praia": "Praia Do Antenor",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 5,
+    "descricao": "No canto esquerdo, em frente ao riacho",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_do_magalhaes_p6",
+    "praia": "Praia Do Magalhães",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 6,
+    "descricao": "Na Rua Beija Flor, em frente à rampa",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_do_siriu_p3",
+    "praia": "Praia Do Siriú",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 3,
+    "descricao": "Estrada Geral da praia do Siriú",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_grande_p10",
+    "praia": "Praia Grande",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 10,
+    "descricao": "Na Avenida Caravelas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "imbituba_praia_grande_p24",
+    "praia": "Praia Grande",
+    "municipio": "Imbituba",
+    "municipio_slug": "imbituba",
+    "ponto_num": 24,
+    "descricao": "Em frente à Rua das Garças",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itajai_lagoa_de_ibiraquera_p2",
+    "praia": "Lagoa De Ibiraquera",
+    "municipio": "Itajaí",
+    "municipio_slug": "itajai",
+    "ponto_num": 2,
+    "descricao": "Próximo à foz da Lagoa",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itajai_praia_brava_p3",
+    "praia": "Praia Brava",
+    "municipio": "Itajaí",
+    "municipio_slug": "itajai",
+    "ponto_num": 3,
+    "descricao": "Avenida José Medeiros Viêira, em frente à Rua Doca Rebello",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itajai_praia_brava_p4",
+    "praia": "Praia Brava",
+    "municipio": "Itajaí",
+    "municipio_slug": "itajai",
+    "ponto_num": 4,
+    "descricao": "Ao final da Avenida José Medeiros Viêira, próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itajai_praia_da_ribanceira_p4",
+    "praia": "Praia Da Ribanceira",
+    "municipio": "Itajaí",
+    "municipio_slug": "itajai",
+    "ponto_num": 4,
+    "descricao": "Rua Joao Martins, em frente ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itajai_praia_da_vila_nova_p6",
+    "praia": "Praia Da Vila Nova",
+    "municipio": "Itajaí",
+    "municipio_slug": "itajai",
+    "ponto_num": 6,
+    "descricao": "Na Rua Francisco Moreira Alves",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itajai_praia_da_vila_nova_p7",
+    "praia": "Praia Da Vila Nova",
+    "municipio": "Itajaí",
+    "municipio_slug": "itajai",
+    "ponto_num": 7,
+    "descricao": "Na Rua Hans de Schimidt",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itajai_praia_de_ibiraquera_p3",
+    "praia": "Praia De Ibiraquera",
+    "municipio": "Itajaí",
+    "municipio_slug": "itajai",
+    "ponto_num": 3,
+    "descricao": "100 metros ao sul da foz da Lagoa",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itajai_praia_de_palmas_p17",
+    "praia": "Praia De Palmas",
+    "municipio": "Itajaí",
+    "municipio_slug": "itajai",
+    "ponto_num": 17,
+    "descricao": "Em frente à Rua das Anchovas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itajai_praia_de_palmas_p18",
+    "praia": "Praia De Palmas",
+    "municipio": "Itajaí",
+    "municipio_slug": "itajai",
+    "ponto_num": 18,
+    "descricao": "Em frente à Rua dos Robalos, na passarela",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itajai_praia_de_palmas_p19",
+    "praia": "Praia De Palmas",
+    "municipio": "Itajaí",
+    "municipio_slug": "itajai",
+    "ponto_num": 19,
+    "descricao": "Em frente à Rua dos Lírios",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itajai_praia_de_palmas_p20",
+    "praia": "Praia De Palmas",
+    "municipio": "Itajaí",
+    "municipio_slug": "itajai",
+    "ponto_num": 20,
+    "descricao": "Na altura do n°819 da Avenida Atlântica",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itajai_praia_do_antenor_p4",
+    "praia": "Praia Do Antenor",
+    "municipio": "Itajaí",
+    "municipio_slug": "itajai",
+    "ponto_num": 4,
+    "descricao": "No meio da Praia",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itajai_praia_do_antenor_p5",
+    "praia": "Praia Do Antenor",
+    "municipio": "Itajaí",
+    "municipio_slug": "itajai",
+    "ponto_num": 5,
+    "descricao": "No canto esquerdo, em frente ao riacho",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itajai_praia_do_magalhaes_p6",
+    "praia": "Praia Do Magalhães",
+    "municipio": "Itajaí",
+    "municipio_slug": "itajai",
+    "ponto_num": 6,
+    "descricao": "Na Rua Beija Flor, em frente à rampa",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itajai_praia_do_porto_p5",
+    "praia": "Praia Do Porto",
+    "municipio": "Itajaí",
+    "municipio_slug": "itajai",
+    "ponto_num": 5,
+    "descricao": "Próximo ao navio encalhado",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itajai_praia_do_porto_p8",
+    "praia": "Praia Do Porto",
+    "municipio": "Itajaí",
+    "municipio_slug": "itajai",
+    "ponto_num": 8,
+    "descricao": "Esquerda do molhe central",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itajai_praia_do_rosa_p1",
+    "praia": "Praia Do Rosa",
+    "municipio": "Itajaí",
+    "municipio_slug": "itajai",
+    "ponto_num": 1,
+    "descricao": "No canto sul, próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itajai_praia_grande_p10",
+    "praia": "Praia Grande",
+    "municipio": "Itajaí",
+    "municipio_slug": "itajai",
+    "ponto_num": 10,
+    "descricao": "Na Avenida Caravelas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itajai_praia_grande_p24",
+    "praia": "Praia Grande",
+    "municipio": "Itajaí",
+    "municipio_slug": "itajai",
+    "ponto_num": 24,
+    "descricao": "Em frente à Rua das Garças",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapema_lagoa_de_ibiraquera_p2",
+    "praia": "Lagoa De Ibiraquera",
+    "municipio": "Itapema",
+    "municipio_slug": "itapema",
+    "ponto_num": 2,
+    "descricao": "Próximo à boca da barra",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapema_praia_brava_p3",
+    "praia": "Praia Brava",
+    "municipio": "Itapema",
+    "municipio_slug": "itapema",
+    "ponto_num": 3,
+    "descricao": "Avenida José Medeiros Viêira, em frente à Rua Doca Rebello",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapema_praia_brava_p4",
+    "praia": "Praia Brava",
+    "municipio": "Itapema",
+    "municipio_slug": "itapema",
+    "ponto_num": 4,
+    "descricao": "Ao final da Avenida José Medeiros Viêira, próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapema_praia_brava_p5",
+    "praia": "Praia Brava",
+    "municipio": "Itapema",
+    "municipio_slug": "itapema",
+    "ponto_num": 5,
+    "descricao": "Em frente à Rua Martim Pescador, próximo ao Posto Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapema_praia_da_ribanceira_p4",
+    "praia": "Praia Da Ribanceira",
+    "municipio": "Itapema",
+    "municipio_slug": "itapema",
+    "ponto_num": 4,
+    "descricao": "Rua Joao Martins, em frente ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapema_praia_da_vila_nova_p6",
+    "praia": "Praia Da Vila Nova",
+    "municipio": "Itapema",
+    "municipio_slug": "itapema",
+    "ponto_num": 6,
+    "descricao": "Na Rua Francisco Moreira Alves",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapema_praia_da_vila_nova_p7",
+    "praia": "Praia Da Vila Nova",
+    "municipio": "Itapema",
+    "municipio_slug": "itapema",
+    "ponto_num": 7,
+    "descricao": "Na Rua Hans de Schimidt",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapema_praia_de_cabecudas_p1",
+    "praia": "Praia De Cabeçudas",
+    "municipio": "Itapema",
+    "municipio_slug": "itapema",
+    "ponto_num": 1,
+    "descricao": "Em frente à Rua Quintino Bocaiúva",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapema_praia_de_ibiraquera_p3",
+    "praia": "Praia De Ibiraquera",
+    "municipio": "Itapema",
+    "municipio_slug": "itapema",
+    "ponto_num": 3,
+    "descricao": "100 metros ao sul da boca da barra",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapema_praia_de_itapema_p1",
+    "praia": "Praia De Itapema",
+    "municipio": "Itapema",
+    "municipio_slug": "itapema",
+    "ponto_num": 1,
+    "descricao": "Na Rua 113",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapema_praia_de_itapema_p2",
+    "praia": "Praia De Itapema",
+    "municipio": "Itapema",
+    "municipio_slug": "itapema",
+    "ponto_num": 2,
+    "descricao": "Na Rua 149",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapema_praia_de_itapema_p3",
+    "praia": "Praia De Itapema",
+    "municipio": "Itapema",
+    "municipio_slug": "itapema",
+    "ponto_num": 3,
+    "descricao": "Na Rua 227",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapema_praia_de_itapema_p4",
+    "praia": "Praia De Itapema",
+    "municipio": "Itapema",
+    "municipio_slug": "itapema",
+    "ponto_num": 4,
+    "descricao": "Na Rua 319",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapema_praia_de_itapema_p5",
+    "praia": "Praia De Itapema",
+    "municipio": "Itapema",
+    "municipio_slug": "itapema",
+    "ponto_num": 5,
+    "descricao": "Na Rua 205",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapema_praia_de_itapema_p7",
+    "praia": "Praia De Itapema",
+    "municipio": "Itapema",
+    "municipio_slug": "itapema",
+    "ponto_num": 7,
+    "descricao": "Na Rua 129 E 1 - sul do Rio Bela Cruz",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapema_praia_de_itapema_p8",
+    "praia": "Praia De Itapema",
+    "municipio": "Itapema",
+    "municipio_slug": "itapema",
+    "ponto_num": 8,
+    "descricao": "Na Rua 261",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapema_praia_de_itapema_p9",
+    "praia": "Praia De Itapema",
+    "municipio": "Itapema",
+    "municipio_slug": "itapema",
+    "ponto_num": 9,
+    "descricao": "Na Rua 163",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapema_praia_do_atalaia_p2",
+    "praia": "Praia Do Atalaia",
+    "municipio": "Itapema",
+    "municipio_slug": "itapema",
+    "ponto_num": 2,
+    "descricao": "Em frente a primeira rampa de acesso à Praia, próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapema_praia_do_porto_p5",
+    "praia": "Praia Do Porto",
+    "municipio": "Itapema",
+    "municipio_slug": "itapema",
+    "ponto_num": 5,
+    "descricao": "Próximo ao navio encalhado",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapema_praia_do_porto_p8",
+    "praia": "Praia Do Porto",
+    "municipio": "Itapema",
+    "municipio_slug": "itapema",
+    "ponto_num": 8,
+    "descricao": "Esquerda do molhe central",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapema_praia_do_porto_p10",
+    "praia": "Praia Do Porto",
+    "municipio": "Itapema",
+    "municipio_slug": "itapema",
+    "ponto_num": 10,
+    "descricao": "Em frente à Rua n°1100",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapema_praia_do_rosa_p1",
+    "praia": "Praia Do Rosa",
+    "municipio": "Itapema",
+    "municipio_slug": "itapema",
+    "ponto_num": 1,
+    "descricao": "No canto sul, próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapoa_praia_brava_p5",
+    "praia": "Praia Brava",
+    "municipio": "Itapoá",
+    "municipio_slug": "itapoa",
+    "ponto_num": 5,
+    "descricao": "Em frente à Rua Martim Pescador, próximo ao Posto Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapoa_praia_de_cabecudas_p1",
+    "praia": "Praia De Cabeçudas",
+    "municipio": "Itapoá",
+    "municipio_slug": "itapoa",
+    "ponto_num": 1,
+    "descricao": "Em frente à Rua Quintino Bocaiúva",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapoa_praia_de_itapema_p1",
+    "praia": "Praia De Itapema",
+    "municipio": "Itapoá",
+    "municipio_slug": "itapoa",
+    "ponto_num": 1,
+    "descricao": "Na Rua 113",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapoa_praia_de_itapema_p2",
+    "praia": "Praia De Itapema",
+    "municipio": "Itapoá",
+    "municipio_slug": "itapoa",
+    "ponto_num": 2,
+    "descricao": "Na Rua 149",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapoa_praia_de_itapema_p3",
+    "praia": "Praia De Itapema",
+    "municipio": "Itapoá",
+    "municipio_slug": "itapoa",
+    "ponto_num": 3,
+    "descricao": "Na Rua 227",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapoa_praia_de_itapema_p4",
+    "praia": "Praia De Itapema",
+    "municipio": "Itapoá",
+    "municipio_slug": "itapoa",
+    "ponto_num": 4,
+    "descricao": "Na Rua 319",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapoa_praia_de_itapema_p5",
+    "praia": "Praia De Itapema",
+    "municipio": "Itapoá",
+    "municipio_slug": "itapoa",
+    "ponto_num": 5,
+    "descricao": "Na Rua 205",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapoa_praia_de_itapema_p7",
+    "praia": "Praia De Itapema",
+    "municipio": "Itapoá",
+    "municipio_slug": "itapoa",
+    "ponto_num": 7,
+    "descricao": "Na Rua 129 E 1 - sul do Rio Bela Cruz",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapoa_praia_de_itapema_p8",
+    "praia": "Praia De Itapema",
+    "municipio": "Itapoá",
+    "municipio_slug": "itapoa",
+    "ponto_num": 8,
+    "descricao": "Na Rua 261",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapoa_praia_de_itapema_p9",
+    "praia": "Praia De Itapema",
+    "municipio": "Itapoá",
+    "municipio_slug": "itapoa",
+    "ponto_num": 9,
+    "descricao": "Na Rua 163",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapoa_praia_de_itapoa_p1",
+    "praia": "Praia De Itapoá",
+    "municipio": "Itapoá",
+    "municipio_slug": "itapoa",
+    "ponto_num": 1,
+    "descricao": "Balneário Brasília, final da Avenida 650",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapoa_praia_de_itapoa_p2",
+    "praia": "Praia De Itapoá",
+    "municipio": "Itapoá",
+    "municipio_slug": "itapoa",
+    "ponto_num": 2,
+    "descricao": "Balneário Paese, entre à Rua 1020 e 1030",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapoa_praia_de_itapoa_p3",
+    "praia": "Praia De Itapoá",
+    "municipio": "Itapoá",
+    "municipio_slug": "itapoa",
+    "ponto_num": 3,
+    "descricao": "Balneário Palmeiras, em frente à Rua 1970",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapoa_praia_de_itapoa_p4",
+    "praia": "Praia De Itapoá",
+    "municipio": "Itapoá",
+    "municipio_slug": "itapoa",
+    "ponto_num": 4,
+    "descricao": "Balneário Barra do Saí, em frente à Rua 20 Alcinei Avanzi",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapoa_praia_de_itapoa_p5",
+    "praia": "Praia De Itapoá",
+    "municipio": "Itapoá",
+    "municipio_slug": "itapoa",
+    "ponto_num": 5,
+    "descricao": "Balneário Barra do Saí, Avenida Dom Henrique ll, em frente ao miradouro (no Rio)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapoa_praia_do_atalaia_p2",
+    "praia": "Praia Do Atalaia",
+    "municipio": "Itapoá",
+    "municipio_slug": "itapoa",
+    "ponto_num": 2,
+    "descricao": "Em frente a primeira rampa de acesso à Praia, próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapoa_praia_do_pontal_do_norte_p6",
+    "praia": "Praia Do Pontal Do Norte",
+    "municipio": "Itapoá",
+    "municipio_slug": "itapoa",
+    "ponto_num": 6,
+    "descricao": "À esquerda do Farol do Pontal, próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "itapoa_praia_do_porto_p10",
+    "praia": "Praia Do Porto",
+    "municipio": "Itapoá",
+    "municipio_slug": "itapoa",
+    "ponto_num": 10,
+    "descricao": "Em frente à Rua n°1100",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_canal_do_camacho_p3",
+    "praia": "Canal Do Camacho",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 3,
+    "descricao": "A direita da placa limítrofe de Laguna-Jaguaruna, no canal",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_lagoa_de_cabecuda_p4",
+    "praia": "Lagoa De Cabeçuda",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 4,
+    "descricao": "Em frente ao Km 313 da BR 101",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_lagoa_de_cabecudas_p4",
+    "praia": "Lagoa De Cabeçudas",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 4,
+    "descricao": "Em frente ao Km 313 da BR 101",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_lagoa_do_arroio_corrente_p2",
+    "praia": "Lagoa Do Arroio Corrente",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 2,
+    "descricao": "Na entrada de água do Chuveirão",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_praia_da_teresa_p5",
+    "praia": "Praia Da Teresa",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 5,
+    "descricao": "No meio da praia",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_praia_de_itapema_p7",
+    "praia": "Praia De Itapema",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 7,
+    "descricao": "Na Rua 129 E 1 - sul do Rio Bela Cruz",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_praia_de_itapema_p8",
+    "praia": "Praia De Itapema",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 8,
+    "descricao": "Na Rua 261",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_praia_de_itapema_p9",
+    "praia": "Praia De Itapema",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 9,
+    "descricao": "Na Rua 163",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_praia_de_itapiruba_p1",
+    "praia": "Praia De Itapirubá",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 1,
+    "descricao": "100 m do costão sul",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_praia_de_itapoa_p1",
+    "praia": "Praia De Itapoá",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 1,
+    "descricao": "Balneário Brasília, final da Avenida 650",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_praia_de_itapoa_p2",
+    "praia": "Praia De Itapoá",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 2,
+    "descricao": "Balneário Paese, entre à Rua 1020 e 1030",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_praia_de_itapoa_p3",
+    "praia": "Praia De Itapoá",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 3,
+    "descricao": "Balneário Palmeiras, em frente à Rua 1970",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_praia_de_itapoa_p4",
+    "praia": "Praia De Itapoá",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 4,
+    "descricao": "Balneário Barra do Saí, em frente à Rua 20 Alcinei Avanzi",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_praia_de_itapoa_p5",
+    "praia": "Praia De Itapoá",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 5,
+    "descricao": "Balneário Barra do Saí, Avenida Dom Henrique ll, em frente ao miradouro (no Rio)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_praia_de_itapoa_cid_129_p1",
+    "praia": "Praia De Itapoã(Cid:129)",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 1,
+    "descricao": "BAL. BRASÍLIA - FINAL DA AVENIDA 650",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_praia_de_itapoa_cid_129_p2",
+    "praia": "Praia De Itapoã(Cid:129)",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 2,
+    "descricao": "BAL. PAESE - ENTRE A RUA 1020 E 1030",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_praia_de_itapoa_cid_129_p3",
+    "praia": "Praia De Itapoã(Cid:129)",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 3,
+    "descricao": "BAL. PALMEIRAS - RUA 1970",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_praia_de_itapoa_cid_129_p4",
+    "praia": "Praia De Itapoã(Cid:129)",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 4,
+    "descricao": "BAL. BARRA DO SAÍ - RUA 20",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_praia_de_itapoa_cid_129_p5",
+    "praia": "Praia De Itapoã(Cid:129)",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 5,
+    "descricao": "AV. D. HENRIQUE II, FTE AO MIRADOURO (NO RIO)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_praia_de_itapoa_cid_129_p6",
+    "praia": "Praia De Itapoã(Cid:129)",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 6,
+    "descricao": "FAROL DO PONTAL",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_praia_de_vigorelli_p1",
+    "praia": "Praia De Vigorelli",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 1,
+    "descricao": "50 METROS À ESQUERDA DO TRAPICHE",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_praia_do_arroio_corrente_p1",
+    "praia": "Praia Do Arroio Corrente",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 1,
+    "descricao": "70 metros ao sul da foz do Arroio Corrente, próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_praia_do_cardoso_p6",
+    "praia": "Praia Do Cardoso",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 6,
+    "descricao": "Extrema esquerda da praia",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_praia_do_gi_p2",
+    "praia": "Praia Do Gi",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 2,
+    "descricao": "Em frente ao posto Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_praia_do_pontal_do_norte_p6",
+    "praia": "Praia Do Pontal Do Norte",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 6,
+    "descricao": "À esquerda do Farol do Pontal, próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_praia_do_porto_p10",
+    "praia": "Praia Do Porto",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 10,
+    "descricao": "Em frente à Rua n°1100",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "laguna_praia_do_vigorelli_p1",
+    "praia": "Praia Do Vigorelli",
+    "municipio": "Laguna",
+    "municipio_slug": "laguna",
+    "ponto_num": 1,
+    "descricao": "À direita do trapiche",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "palhoca_canal_do_camacho_p3",
+    "praia": "Canal Do Camacho",
+    "municipio": "Palhoça",
+    "municipio_slug": "palhoca",
+    "ponto_num": 3,
+    "descricao": "A direita da placa limítrofe de Laguna-Jaguaruna, no canal",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "palhoca_lagoa_de_cabecuda_p4",
+    "praia": "Lagoa De Cabeçuda",
+    "municipio": "Palhoça",
+    "municipio_slug": "palhoca",
+    "ponto_num": 4,
+    "descricao": "Em frente ao Km 313 da BR 101",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "palhoca_lagoa_do_arroio_corrente_p2",
+    "praia": "Lagoa Do Arroio Corrente",
+    "municipio": "Palhoça",
+    "municipio_slug": "palhoca",
+    "ponto_num": 2,
+    "descricao": "Na entrada de água do Chuveirão",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "palhoca_praia_da_teresa_p5",
+    "praia": "Praia Da Teresa",
+    "municipio": "Palhoça",
+    "municipio_slug": "palhoca",
+    "ponto_num": 5,
+    "descricao": "No meio da praia",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "palhoca_praia_de_itapiruba_p1",
+    "praia": "Praia De Itapirubá",
+    "municipio": "Palhoça",
+    "municipio_slug": "palhoca",
+    "ponto_num": 1,
+    "descricao": "100 m do costão sul",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "palhoca_praia_de_navegantes_p2",
+    "praia": "Praia De Navegantes",
+    "municipio": "Palhoça",
+    "municipio_slug": "palhoca",
+    "ponto_num": 2,
+    "descricao": "Em frente à Rua Jaraguá do Sul, próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "palhoca_praia_de_navegantes_p3",
+    "praia": "Praia De Navegantes",
+    "municipio": "Palhoça",
+    "municipio_slug": "palhoca",
+    "ponto_num": 3,
+    "descricao": "Em frente à Rua Julia Cardoso do Nascimento",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "palhoca_praia_de_navegantes_p4",
+    "praia": "Praia De Navegantes",
+    "municipio": "Palhoça",
+    "municipio_slug": "palhoca",
+    "ponto_num": 4,
+    "descricao": "Na foz do Rio Gravatá",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "palhoca_praia_de_navegantes_p5",
+    "praia": "Praia De Navegantes",
+    "municipio": "Palhoça",
+    "municipio_slug": "palhoca",
+    "ponto_num": 5,
+    "descricao": "Em frente à Avenida João Sacavem",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "palhoca_praia_do_arroio_corrente_p1",
+    "praia": "Praia Do Arroio Corrente",
+    "municipio": "Palhoça",
+    "municipio_slug": "palhoca",
+    "ponto_num": 1,
+    "descricao": "70 metros ao sul da foz do Arroio Corrente, próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "palhoca_praia_do_cardoso_p6",
+    "praia": "Praia Do Cardoso",
+    "municipio": "Palhoça",
+    "municipio_slug": "palhoca",
+    "ponto_num": 6,
+    "descricao": "Extrema esquerda da praia",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "palhoca_praia_do_gi_p2",
+    "praia": "Praia Do Gi",
+    "municipio": "Palhoça",
+    "municipio_slug": "palhoca",
+    "ponto_num": 2,
+    "descricao": "Em frente ao posto Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "palhoca_praia_do_mar_grosso_p3",
+    "praia": "Praia Do Mar Grosso",
+    "municipio": "Palhoça",
+    "municipio_slug": "palhoca",
+    "ponto_num": 3,
+    "descricao": "Em frente ao emissário da CASAN",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "palhoca_praia_do_vigorelli_p1",
+    "praia": "Praia Do Vigorelli",
+    "municipio": "Palhoça",
+    "municipio_slug": "palhoca",
+    "ponto_num": 1,
+    "descricao": "À direita do trapiche",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "palhoca_prainha_do_farol_p7",
+    "praia": "Prainha Do Farol",
+    "municipio": "Palhoça",
+    "municipio_slug": "palhoca",
+    "ponto_num": 7,
+    "descricao": "Na entrada da praia",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "passo_de_torres_braco_morto_do_rio_mampituba_p2",
+    "praia": "Braço Morto Do Rio Mampituba",
+    "municipio": "Passo De Torres",
+    "municipio_slug": "passo_de_torres",
+    "ponto_num": 2,
+    "descricao": "Rua Beira Rio, próximo ao n°304, na ponte",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "passo_de_torres_guarda_do_embau_p3",
+    "praia": "Guarda Do Embau",
+    "municipio": "Passo De Torres",
+    "municipio_slug": "passo_de_torres",
+    "ponto_num": 3,
+    "descricao": "No rio, em frente à vila",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "passo_de_torres_guarda_do_embau_p8",
+    "praia": "Guarda Do Embau",
+    "municipio": "Passo De Torres",
+    "municipio_slug": "passo_de_torres",
+    "ponto_num": 8,
+    "descricao": "Frente ao cadeirao de Guarda-Vidas, na praia",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "passo_de_torres_lagoa_de_cabecuda_p4",
+    "praia": "Lagoa De Cabeçuda",
+    "municipio": "Passo De Torres",
+    "municipio_slug": "passo_de_torres",
+    "ponto_num": 4,
+    "descricao": "Em frente ao Km 313 da BR 101",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "passo_de_torres_praia_da_pinheira_p2",
+    "praia": "Praia Da Pinheira",
+    "municipio": "Passo De Torres",
+    "municipio_slug": "passo_de_torres",
+    "ponto_num": 2,
+    "descricao": "Em frente à Rua Manoel Martins (Rua dos Pescadores)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "passo_de_torres_praia_da_pinheira_p5",
+    "praia": "Praia Da Pinheira",
+    "municipio": "Passo De Torres",
+    "municipio_slug": "passo_de_torres",
+    "ponto_num": 5,
+    "descricao": "Rua Beira Rio, no Rio próximo a foz",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "passo_de_torres_praia_da_pinheira_p6",
+    "praia": "Praia Da Pinheira",
+    "municipio": "Passo De Torres",
+    "municipio_slug": "passo_de_torres",
+    "ponto_num": 6,
+    "descricao": "Avenida Cardida Freitas da Rosa, em frente ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "passo_de_torres_praia_da_teresa_p5",
+    "praia": "Praia Da Teresa",
+    "municipio": "Passo De Torres",
+    "municipio_slug": "passo_de_torres",
+    "ponto_num": 5,
+    "descricao": "No meio da praia",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "passo_de_torres_praia_de_fora_p4",
+    "praia": "Praia De Fora",
+    "municipio": "Passo De Torres",
+    "municipio_slug": "passo_de_torres",
+    "ponto_num": 4,
+    "descricao": "Em frente à Rua Antônio Júlio Fagundes",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "passo_de_torres_praia_de_fora_p7",
+    "praia": "Praia De Fora",
+    "municipio": "Passo De Torres",
+    "municipio_slug": "passo_de_torres",
+    "ponto_num": 7,
+    "descricao": "Em frente a Rua Girassol",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "passo_de_torres_praia_de_itapiruba_p1",
+    "praia": "Praia De Itapirubá",
+    "municipio": "Passo De Torres",
+    "municipio_slug": "passo_de_torres",
+    "ponto_num": 1,
+    "descricao": "100 m do costão sul",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "passo_de_torres_praia_de_navegantes_p2",
+    "praia": "Praia De Navegantes",
+    "municipio": "Passo De Torres",
+    "municipio_slug": "passo_de_torres",
+    "ponto_num": 2,
+    "descricao": "Em frente à Rua Jaraguá do Sul, próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "passo_de_torres_praia_de_navegantes_p3",
+    "praia": "Praia De Navegantes",
+    "municipio": "Passo De Torres",
+    "municipio_slug": "passo_de_torres",
+    "ponto_num": 3,
+    "descricao": "Em frente à Rua Julia Cardoso do Nascimento",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "passo_de_torres_praia_de_navegantes_p4",
+    "praia": "Praia De Navegantes",
+    "municipio": "Passo De Torres",
+    "municipio_slug": "passo_de_torres",
+    "ponto_num": 4,
+    "descricao": "Na foz do Rio Gravatá",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "passo_de_torres_praia_de_navegantes_p5",
+    "praia": "Praia De Navegantes",
+    "municipio": "Passo De Torres",
+    "municipio_slug": "passo_de_torres",
+    "ponto_num": 5,
+    "descricao": "Em frente à Avenida João Sacavem",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "passo_de_torres_praia_de_passo_de_torres_p1",
+    "praia": "Praia De Passo De Torres",
+    "municipio": "Passo De Torres",
+    "municipio_slug": "passo_de_torres",
+    "ponto_num": 1,
+    "descricao": "Rua Vinte de Maio",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "passo_de_torres_praia_do_cardoso_p6",
+    "praia": "Praia Do Cardoso",
+    "municipio": "Passo De Torres",
+    "municipio_slug": "passo_de_torres",
+    "ponto_num": 6,
+    "descricao": "Extrema esquerda da praia",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "passo_de_torres_praia_do_gi_p2",
+    "praia": "Praia Do Gi",
+    "municipio": "Passo De Torres",
+    "municipio_slug": "passo_de_torres",
+    "ponto_num": 2,
+    "descricao": "Em frente ao posto Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "passo_de_torres_praia_do_mar_grosso_p3",
+    "praia": "Praia Do Mar Grosso",
+    "municipio": "Passo De Torres",
+    "municipio_slug": "passo_de_torres",
+    "ponto_num": 3,
+    "descricao": "Em frente ao emissário da CASAN",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "passo_de_torres_praia_do_sonho_p1",
+    "praia": "Praia Do Sonho",
+    "municipio": "Passo De Torres",
+    "municipio_slug": "passo_de_torres",
+    "ponto_num": 1,
+    "descricao": "Em frente à Rua Canindé",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "passo_de_torres_prainha_do_farol_p7",
+    "praia": "Prainha Do Farol",
+    "municipio": "Passo De Torres",
+    "municipio_slug": "passo_de_torres",
+    "ponto_num": 7,
+    "descricao": "Na entrada da praia",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "paulo_lopes_braco_morto_do_rio_mampituba_p2",
+    "praia": "Braço Morto Do Rio Mampituba",
+    "municipio": "Paulo Lopes",
+    "municipio_slug": "paulo_lopes",
+    "ponto_num": 2,
+    "descricao": "Rua Beira Rio, próximo ao n°304, na ponte",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "paulo_lopes_guarda_do_embau_p3",
+    "praia": "Guarda Do Embau",
+    "municipio": "Paulo Lopes",
+    "municipio_slug": "paulo_lopes",
+    "ponto_num": 3,
+    "descricao": "No Rio, em frente à vila",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "paulo_lopes_praia_da_pinheira_p2",
+    "praia": "Praia Da Pinheira",
+    "municipio": "Paulo Lopes",
+    "municipio_slug": "paulo_lopes",
+    "ponto_num": 2,
+    "descricao": "Em frente à Rua Manoel Martins (Rua dos Pescadores)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "paulo_lopes_praia_da_pinheira_p5",
+    "praia": "Praia Da Pinheira",
+    "municipio": "Paulo Lopes",
+    "municipio_slug": "paulo_lopes",
+    "ponto_num": 5,
+    "descricao": "Rua Beira Rio, no Rio próximo a foz",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "paulo_lopes_praia_da_pinheira_p6",
+    "praia": "Praia Da Pinheira",
+    "municipio": "Paulo Lopes",
+    "municipio_slug": "paulo_lopes",
+    "ponto_num": 6,
+    "descricao": "Avenida Cardida Freitas da Rosa, em frente ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "paulo_lopes_praia_de_fora_p4",
+    "praia": "Praia De Fora",
+    "municipio": "Paulo Lopes",
+    "municipio_slug": "paulo_lopes",
+    "ponto_num": 4,
+    "descricao": "Em frente à Rua Antônio Júlio Fagundes",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "paulo_lopes_praia_de_fora_p7",
+    "praia": "Praia De Fora",
+    "municipio": "Paulo Lopes",
+    "municipio_slug": "paulo_lopes",
+    "ponto_num": 7,
+    "descricao": "Em frente a Rua Girassol",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "paulo_lopes_praia_de_navegantes_p2",
+    "praia": "Praia De Navegantes",
+    "municipio": "Paulo Lopes",
+    "municipio_slug": "paulo_lopes",
+    "ponto_num": 2,
+    "descricao": "Em frente à Rua Jaraguá do Sul, próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "paulo_lopes_praia_de_navegantes_p3",
+    "praia": "Praia De Navegantes",
+    "municipio": "Paulo Lopes",
+    "municipio_slug": "paulo_lopes",
+    "ponto_num": 3,
+    "descricao": "Em frente à Rua Julia Cardoso do Nascimento",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "paulo_lopes_praia_de_navegantes_p4",
+    "praia": "Praia De Navegantes",
+    "municipio": "Paulo Lopes",
+    "municipio_slug": "paulo_lopes",
+    "ponto_num": 4,
+    "descricao": "Na foz do Rio Gravatá",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "paulo_lopes_praia_de_navegantes_p5",
+    "praia": "Praia De Navegantes",
+    "municipio": "Paulo Lopes",
+    "municipio_slug": "paulo_lopes",
+    "ponto_num": 5,
+    "descricao": "Em frente à Avenida João Sacavem",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "paulo_lopes_praia_de_passo_de_torres_p1",
+    "praia": "Praia De Passo De Torres",
+    "municipio": "Paulo Lopes",
+    "municipio_slug": "paulo_lopes",
+    "ponto_num": 1,
+    "descricao": "Em frente à Rua Vinte de Maio",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "paulo_lopes_praia_do_mar_grosso_p3",
+    "praia": "Praia Do Mar Grosso",
+    "municipio": "Paulo Lopes",
+    "municipio_slug": "paulo_lopes",
+    "ponto_num": 3,
+    "descricao": "Em frente ao emissário da CASAN",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "paulo_lopes_praia_do_sonho_p1",
+    "praia": "Praia Do Sonho",
+    "municipio": "Paulo Lopes",
+    "municipio_slug": "paulo_lopes",
+    "ponto_num": 1,
+    "descricao": "Em frente à Rua Canindé",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "paulo_lopes_prainha_do_farol_p7",
+    "praia": "Prainha Do Farol",
+    "municipio": "Paulo Lopes",
+    "municipio_slug": "paulo_lopes",
+    "ponto_num": 7,
+    "descricao": "Na entrada da praia",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "penha_braco_morto_do_rio_mampituba_p2",
+    "praia": "Braço Morto Do Rio Mampituba",
+    "municipio": "Penha",
+    "municipio_slug": "penha",
+    "ponto_num": 2,
+    "descricao": "Rua Beira Rio, próximo ao n°304, na ponte",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "penha_guarda_do_embau_p3",
+    "praia": "Guarda Do Embau",
+    "municipio": "Penha",
+    "municipio_slug": "penha",
+    "ponto_num": 3,
+    "descricao": "No Rio, em frente à vila",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "penha_praia_alegre_p1",
+    "praia": "Praia Alegre",
+    "municipio": "Penha",
+    "municipio_slug": "penha",
+    "ponto_num": 1,
+    "descricao": "Em frente à Travessa Particular Marcelo dos Santos",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "penha_praia_alegre_p2",
+    "praia": "Praia Alegre",
+    "municipio": "Penha",
+    "municipio_slug": "penha",
+    "ponto_num": 2,
+    "descricao": "Na Rua Abraão João Francisco, altura do n°709",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "penha_praia_da_armacao_do_itapocoroi_p3",
+    "praia": "Praia Da Armação Do Itapocorói",
+    "municipio": "Penha",
+    "municipio_slug": "penha",
+    "ponto_num": 3,
+    "descricao": "Em frente à Rua Inês de Souza (Praia do Quilombo)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "penha_praia_da_armacao_do_itapocoroi_p4",
+    "praia": "Praia Da Armação Do Itapocorói",
+    "municipio": "Penha",
+    "municipio_slug": "penha",
+    "ponto_num": 4,
+    "descricao": "Em frente à Rua Blumenau (Praia da Fortaleza)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "penha_praia_da_armacao_do_itapocoroi_p5",
+    "praia": "Praia Da Armação Do Itapocorói",
+    "municipio": "Penha",
+    "municipio_slug": "penha",
+    "ponto_num": 5,
+    "descricao": "Em frente à Rua Maria Emília Costa",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "penha_praia_da_armacao_do_itapocoroi_p11",
+    "praia": "Praia Da Armação Do Itapocorói",
+    "municipio": "Penha",
+    "municipio_slug": "penha",
+    "ponto_num": 11,
+    "descricao": "Em frente à Rua Antônio Costa",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "penha_praia_da_guarda_do_embau_p1",
+    "praia": "Praia Da Guarda Do Embau",
+    "municipio": "Penha",
+    "municipio_slug": "penha",
+    "ponto_num": 1,
+    "descricao": "Frente ao cadeirao de Guarda-Vidas, na praia",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "penha_praia_da_pinheira_p2",
+    "praia": "Praia Da Pinheira",
+    "municipio": "Penha",
+    "municipio_slug": "penha",
+    "ponto_num": 2,
+    "descricao": "Em frente à Rua Manoel Martins (Rua dos Pescadores)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "penha_praia_da_pinheira_p5",
+    "praia": "Praia Da Pinheira",
+    "municipio": "Penha",
+    "municipio_slug": "penha",
+    "ponto_num": 5,
+    "descricao": "Rua Beira Rio, no Rio próximo a foz",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "penha_praia_da_pinheira_p6",
+    "praia": "Praia Da Pinheira",
+    "municipio": "Penha",
+    "municipio_slug": "penha",
+    "ponto_num": 6,
+    "descricao": "Avenida Cardida Freitas da Rosa, em frente ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "penha_praia_da_saudade_p6",
+    "praia": "Praia Da Saudade",
+    "municipio": "Penha",
+    "municipio_slug": "penha",
+    "ponto_num": 6,
+    "descricao": "Em frente à Rua Possidônio Silva Marçal",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "penha_praia_de_fora_p4",
+    "praia": "Praia De Fora",
+    "municipio": "Penha",
+    "municipio_slug": "penha",
+    "ponto_num": 4,
+    "descricao": "Em frente à Rua Antônio Júlio Fagundes",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "penha_praia_de_fora_p7",
+    "praia": "Praia De Fora",
+    "municipio": "Penha",
+    "municipio_slug": "penha",
+    "ponto_num": 7,
+    "descricao": "Em frente a Rua Girassol",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "penha_praia_de_passo_de_torres_p1",
+    "praia": "Praia De Passo De Torres",
+    "municipio": "Penha",
+    "municipio_slug": "penha",
+    "ponto_num": 1,
+    "descricao": "Em frente à Rua Vinte de Maio",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "penha_praia_do_sonho_p1",
+    "praia": "Praia Do Sonho",
+    "municipio": "Penha",
+    "municipio_slug": "penha",
+    "ponto_num": 1,
+    "descricao": "Em frente à Rua Canindé",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "porto_belo_braco_morto_do_rio_mampituba_p2",
+    "praia": "Braço Morto Do Rio Mampituba",
+    "municipio": "Porto Belo",
+    "municipio_slug": "porto_belo",
+    "ponto_num": 2,
+    "descricao": "Rua Beira Rio, próximo ao n°304, na ponte",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "porto_belo_praia_alegre_p1",
+    "praia": "Praia Alegre",
+    "municipio": "Porto Belo",
+    "municipio_slug": "porto_belo",
+    "ponto_num": 1,
+    "descricao": "Em frente à Travessa Particular Marcelo dos Santos",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "porto_belo_praia_alegre_p2",
+    "praia": "Praia Alegre",
+    "municipio": "Porto Belo",
+    "municipio_slug": "porto_belo",
+    "ponto_num": 2,
+    "descricao": "Na Rua Abraão João Francisco, altura do n°709",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "porto_belo_praia_da_armacao_do_itapocoroi_p3",
+    "praia": "Praia Da Armação Do Itapocorói",
+    "municipio": "Porto Belo",
+    "municipio_slug": "porto_belo",
+    "ponto_num": 3,
+    "descricao": "Em frente à Rua Inês de Souza (Praia do Quilombo)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "porto_belo_praia_da_armacao_do_itapocoroi_p4",
+    "praia": "Praia Da Armação Do Itapocorói",
+    "municipio": "Porto Belo",
+    "municipio_slug": "porto_belo",
+    "ponto_num": 4,
+    "descricao": "Em frente à Rua Blumenau (Praia da Fortaleza)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "porto_belo_praia_da_armacao_do_itapocoroi_p5",
+    "praia": "Praia Da Armação Do Itapocorói",
+    "municipio": "Porto Belo",
+    "municipio_slug": "porto_belo",
+    "ponto_num": 5,
+    "descricao": "EM FRENTE À RUA MARIA EMÍLIA COSTA",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "porto_belo_praia_da_armacao_do_itapocoroi_p11",
+    "praia": "Praia Da Armação Do Itapocorói",
+    "municipio": "Porto Belo",
+    "municipio_slug": "porto_belo",
+    "ponto_num": 11,
+    "descricao": "EM FRENTE À RUA ANTONIO ANICETO DA COSTA",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "porto_belo_praia_da_guarda_do_embau_p1",
+    "praia": "Praia Da Guarda Do Embau",
+    "municipio": "Porto Belo",
+    "municipio_slug": "porto_belo",
+    "ponto_num": 1,
+    "descricao": "Frente ao cadeirao de Guarda-Vidas, na praia",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "porto_belo_praia_da_saudade_p6",
+    "praia": "Praia Da Saudade",
+    "municipio": "Porto Belo",
+    "municipio_slug": "porto_belo",
+    "ponto_num": 6,
+    "descricao": "Em frente à Rua Possidônio Silva Marçal",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "porto_belo_praia_de_passo_de_torres_p1",
+    "praia": "Praia De Passo De Torres",
+    "municipio": "Porto Belo",
+    "municipio_slug": "porto_belo",
+    "ponto_num": 1,
+    "descricao": "Em frente à Rua Vinte de Maio",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "porto_belo_praia_de_pereque_p3",
+    "praia": "Praia De Perequê",
+    "municipio": "Porto Belo",
+    "municipio_slug": "porto_belo",
+    "ponto_num": 3,
+    "descricao": "Foz do rio Perequezinho",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "porto_belo_praia_de_pereque_p4",
+    "praia": "Praia De Perequê",
+    "municipio": "Porto Belo",
+    "municipio_slug": "porto_belo",
+    "ponto_num": 4,
+    "descricao": "Rua Rubens Alves",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "porto_belo_praia_de_pereque_p5",
+    "praia": "Praia De Perequê",
+    "municipio": "Porto Belo",
+    "municipio_slug": "porto_belo",
+    "ponto_num": 5,
+    "descricao": "Rua Alm. Fonseca Neves",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "porto_belo_praia_de_porto_belo_p1",
+    "praia": "Praia De Porto Belo",
+    "municipio": "Porto Belo",
+    "municipio_slug": "porto_belo",
+    "ponto_num": 1,
+    "descricao": "Rua Manoel F. da S. Neto - ao lado do trapiche",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "porto_belo_praia_de_porto_belo_p2",
+    "praia": "Praia De Porto Belo",
+    "municipio": "Porto Belo",
+    "municipio_slug": "porto_belo",
+    "ponto_num": 2,
+    "descricao": "Rua João B. Guerreiro",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "porto_belo_praia_de_porto_belo_p6",
+    "praia": "Praia De Porto Belo",
+    "municipio": "Porto Belo",
+    "municipio_slug": "porto_belo",
+    "ponto_num": 6,
+    "descricao": "Rua Cap. Gualberto Leal Nunes",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "porto_belo_praia_de_sao_miguel_p10",
+    "praia": "Praia De São Miguel",
+    "municipio": "Porto Belo",
+    "municipio_slug": "porto_belo",
+    "ponto_num": 10,
+    "descricao": "EM FRENTE À RUA ARNO BECKER",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "porto_belo_praia_grande_p8",
+    "praia": "Praia Grande",
+    "municipio": "Porto Belo",
+    "municipio_slug": "porto_belo",
+    "ponto_num": 8,
+    "descricao": "Rua Waldemar Werner, em frente ao n°193 (próximo às pedras)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "porto_belo_praia_vermelha_p9",
+    "praia": "Praia Vermelha",
+    "municipio": "Porto Belo",
+    "municipio_slug": "porto_belo",
+    "ponto_num": 9,
+    "descricao": "Frente à Rua Antônio Benjamin da Costa (acesso à Praia Vermelha)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "porto_belo_prainha_da_penha_p7",
+    "praia": "Prainha Da Penha",
+    "municipio": "Porto Belo",
+    "municipio_slug": "porto_belo",
+    "ponto_num": 7,
+    "descricao": "Ao final da Avenida Prefeito Henrique Assis, em frente à rótula de retorno (Bacia da Vovó)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_alegre_p1",
+    "praia": "Praia Alegre",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 1,
+    "descricao": "Em frente à Travessa Particular Marcelo dos Santos",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_alegre_p2",
+    "praia": "Praia Alegre",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 2,
+    "descricao": "Na Rua Abraão João Francisco, altura do n°709",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_da_armacao_do_itapocoroi_p3",
+    "praia": "Praia Da Armação Do Itapocorói",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 3,
+    "descricao": "Em frente à Rua Inês de Souza (Praia do Quilombo)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_da_armacao_do_itapocoroi_p4",
+    "praia": "Praia Da Armação Do Itapocorói",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 4,
+    "descricao": "Em frente à Rua Blumenau (Praia da Fortaleza)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_da_armacao_do_itapocoroi_p5",
+    "praia": "Praia Da Armação Do Itapocorói",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 5,
+    "descricao": "EM FRENTE À RUA MARIA EMÍLIA COSTA",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_da_armacao_do_itapocoroi_p11",
+    "praia": "Praia Da Armação Do Itapocorói",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 11,
+    "descricao": "EM FRENTE À RUA ANTONIO ANICETO DA COSTA",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_da_enseada_p1",
+    "praia": "Praia Da Enseada",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 1,
+    "descricao": "Avenida Atlântica, em frente ao n°848, próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_da_enseada_p2",
+    "praia": "Praia Da Enseada",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 2,
+    "descricao": "Em frente à Rua Minas Gerais",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_da_enseada_p8",
+    "praia": "Praia Da Enseada",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 8,
+    "descricao": "Em frente ao início da Avenida Atlântica com a Rua Acre, próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_da_guarda_do_embau_p1",
+    "praia": "Praia Da Guarda Do Embau",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 1,
+    "descricao": "Frente ao cadeirao de Guarda-Vidas, na praia",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_da_saudade_p6",
+    "praia": "Praia Da Saudade",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 6,
+    "descricao": "Em frente à Rua Possidônio Silva Marçal",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_de_itaguacu_p3",
+    "praia": "Praia De Itaguaçú",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 3,
+    "descricao": "Em frente à Rua Manila, próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_de_passo_de_torres_p1",
+    "praia": "Praia De Passo De Torres",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 1,
+    "descricao": "Rua Vinte de Maio",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_de_pereque_p3",
+    "praia": "Praia De Perequê",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 3,
+    "descricao": "Foz do rio Perequezinho",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_de_pereque_p4",
+    "praia": "Praia De Perequê",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 4,
+    "descricao": "Rua Rubens Alves",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_de_pereque_p5",
+    "praia": "Praia De Perequê",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 5,
+    "descricao": "Rua Alm. Fonseca Neves",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_de_porto_belo_p1",
+    "praia": "Praia De Porto Belo",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 1,
+    "descricao": "Rua Manoel F. da S. Neto - ao lado do trapiche",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_de_porto_belo_p2",
+    "praia": "Praia De Porto Belo",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 2,
+    "descricao": "Rua João B. Guerreiro",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_de_porto_belo_p6",
+    "praia": "Praia De Porto Belo",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 6,
+    "descricao": "Rua Cap. Gualberto Leal Nunes",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_de_sao_miguel_p10",
+    "praia": "Praia De São Miguel",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 10,
+    "descricao": "EM FRENTE À RUA ARNO BECKER",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_de_ubatuba_p4",
+    "praia": "Praia De Ubatuba",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 4,
+    "descricao": "Em frente à Rua Cidade do Cabo, próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_do_capri_p5",
+    "praia": "Praia Do Capri",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 5,
+    "descricao": "Em frente à Rua Inglaterra, após à passarela (no mar)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_dos_paulas_p6",
+    "praia": "Praia Dos Paulas",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 6,
+    "descricao": "Em frente à Praça da Figueira",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_dos_paulas_p7",
+    "praia": "Praia Dos Paulas",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 7,
+    "descricao": "Em frente à Praça do Inglês",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_grande_p8",
+    "praia": "Praia Grande",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 8,
+    "descricao": "Rua Waldemar Werner, em frente ao n°193 (próximo às pedras)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_praia_vermelha_p9",
+    "praia": "Praia Vermelha",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 9,
+    "descricao": "Frente à Rua Antônio Benjamin da Costa (acesso à Praia Vermelha)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_francisco_do_sul_prainha_da_penha_p7",
+    "praia": "Prainha Da Penha",
+    "municipio": "São Francisco Do Sul",
+    "municipio_slug": "sao_francisco_do_sul",
+    "ponto_num": 7,
+    "descricao": "Ao final da Avenida Prefeito Henrique Assis, em frente à rótula de retorno (Bacia da Vovó)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_jose_praia_da_enseada_p1",
+    "praia": "Praia Da Enseada",
+    "municipio": "São José",
+    "municipio_slug": "sao_jose",
+    "ponto_num": 1,
+    "descricao": "Avenida Atlântica, em frente ao n°848, próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_jose_praia_da_enseada_p2",
+    "praia": "Praia Da Enseada",
+    "municipio": "São José",
+    "municipio_slug": "sao_jose",
+    "ponto_num": 2,
+    "descricao": "Em frente à Rua Minas Gerais",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_jose_praia_da_enseada_p8",
+    "praia": "Praia Da Enseada",
+    "municipio": "São José",
+    "municipio_slug": "sao_jose",
+    "ponto_num": 8,
+    "descricao": "Em frente ao início da Avenida Atlântica com a Rua Acre, próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_jose_praia_de_guararema_p1",
+    "praia": "Praia De Guararema",
+    "municipio": "São José",
+    "municipio_slug": "sao_jose",
+    "ponto_num": 1,
+    "descricao": "Canto esquerdo da praia",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_jose_praia_de_itaguacu_p3",
+    "praia": "Praia De Itaguaçú",
+    "municipio": "São José",
+    "municipio_slug": "sao_jose",
+    "ponto_num": 3,
+    "descricao": "Em frente à Rua Manila, próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_jose_praia_de_porto_belo_p2",
+    "praia": "Praia De Porto Belo",
+    "municipio": "São José",
+    "municipio_slug": "sao_jose",
+    "ponto_num": 2,
+    "descricao": "Rua João B. Guerreiro",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_jose_praia_de_porto_belo_p6",
+    "praia": "Praia De Porto Belo",
+    "municipio": "São José",
+    "municipio_slug": "sao_jose",
+    "ponto_num": 6,
+    "descricao": "Rua Cap. Gualberto Leal Nunes",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_jose_praia_de_ubatuba_p4",
+    "praia": "Praia De Ubatuba",
+    "municipio": "São José",
+    "municipio_slug": "sao_jose",
+    "ponto_num": 4,
+    "descricao": "Em frente à Rua Cidade do Cabo, próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_jose_praia_do_capri_p5",
+    "praia": "Praia Do Capri",
+    "municipio": "São José",
+    "municipio_slug": "sao_jose",
+    "ponto_num": 5,
+    "descricao": "Em frente à Rua Inglaterra, após à passarela (no mar)",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_jose_praia_dos_paulas_p6",
+    "praia": "Praia Dos Paulas",
+    "municipio": "São José",
+    "municipio_slug": "sao_jose",
+    "ponto_num": 6,
+    "descricao": "Em frente à Praça da Figueira",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_jose_praia_dos_paulas_p7",
+    "praia": "Praia Dos Paulas",
+    "municipio": "São José",
+    "municipio_slug": "sao_jose",
+    "ponto_num": 7,
+    "descricao": "Em frente à Praça do Inglês",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "sao_jose_prainha_da_enseada_p9",
+    "praia": "Prainha Da Enseada",
+    "municipio": "São José",
+    "municipio_slug": "sao_jose",
+    "ponto_num": 9,
+    "descricao": "Em frente à Rua Maceió, próximo ao Posto de Salva Vidas",
+    "lat": null,
+    "lon": null
+  }
+]

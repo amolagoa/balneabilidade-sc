@@ -1,0 +1,16 @@
+# PDFs dos relatórios (binários grandes, regeneráveis via baixar_relatorios.py)
+relatorios/
+
+# Intermediários do ETL (regeneráveis rodando os scripts etl/)
+etl/raw_extractions.json
+etl/medicoes_normalizadas.json
+
+# Next.js
+web/.next/
+web/out/
+web/node_modules/
+web/tsconfig.tsbuildinfo
+
+# macOS
+.DS_Store
+**/.DS_Store

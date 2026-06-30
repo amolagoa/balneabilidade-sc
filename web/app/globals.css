@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Leaflet precisa desses CSS */
+@import "leaflet/dist/leaflet.css";
+
+:root {
+  --color-propria: #16a34a;
+  --color-impropria: #dc2626;
+  --color-indeterminado: #9ca3af;
+}
+
+body {
+  @apply bg-gray-50 text-gray-900 font-sans;
+}
+
+.status-propria {
+  @apply bg-green-50 text-green-800 border-green-200;
+}
+.status-impropria {
+  @apply bg-red-50 text-red-800 border-red-200;
+}
