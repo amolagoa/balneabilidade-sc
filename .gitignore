@@ -1,5 +1,5 @@
 # PDFs dos relatórios (binários grandes, regeneráveis via baixar_relatorios.py)
-relatorios/
+/relatorios/
 
 # Intermediários do ETL (regeneráveis rodando os scripts etl/)
 etl/raw_extractions.json
