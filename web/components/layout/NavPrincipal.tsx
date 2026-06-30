@@ -45,7 +45,7 @@ export function NavPrincipal() {
       </nav>
 
       {/* Mobile */}
-      <nav className="flex sm:hidden items-center gap-1 text-xs font-medium overflow-x-auto pb-0.5">
+      <nav className="flex sm:hidden items-center gap-1 text-xs font-medium overflow-x-auto">
         {links.map((link) => {
           const ativo = isAtivo(pathname, link.href);
           return (

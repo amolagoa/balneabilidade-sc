@@ -31,11 +31,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className="min-h-screen flex flex-col">
         <BemVindo />
         <header className="bg-gradient-to-r from-teal-800 to-teal-600 text-white shadow-lg">
-          <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
+          <div className="max-w-6xl mx-auto px-4 flex flex-col sm:flex-row sm:items-center sm:justify-between sm:gap-4">
 
             {/* Logo + seletor de praia */}
-            <div className="flex items-center gap-3 shrink-0">
-              <a href="/lagoa" className="group">
+            <div className="flex items-center gap-3 py-3">
+              <a href="/lagoa" className="group shrink-0">
                 <div className="bg-white rounded-xl px-2.5 py-1.5 shadow-sm group-hover:shadow-md transition-shadow">
                   <Image
                     src="/AMOLAGOA.png"
@@ -49,7 +49,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <PraiaSelector />
             </div>
 
-            <NavPrincipal />
+            {/* Menu: linha separada no mobile, mesma linha no desktop */}
+            <div className="border-t border-white/10 sm:border-0 pb-2 sm:pb-0">
+              <NavPrincipal />
+            </div>
+
           </div>
         </header>
 
