@@ -1,6 +1,8 @@
 "use client";
 
 import { useState, useMemo } from "react";
+import { usePathname } from "next/navigation";
+import { getPraiaBySlug, praiaSlugFromPathname } from "@/lib/praias";
 import {
   AreaChart, Area, BarChart, Bar, LineChart, Line,
   XAxis, YAxis, CartesianGrid, Tooltip, Legend,
@@ -200,6 +202,8 @@ function ComparacaoTooltip({ active, payload, label }: any) {
 // ---------- componente principal ----------
 
 export function AnaliseTemporadaClient({ dadosPorPonto }: Props) {
+  const pathname = usePathname();
+  const nomePraia = getPraiaBySlug(praiaSlugFromPathname(pathname))?.nome ?? "Lagoa da Conceição";
   const temporadas = useMemo(() => getTemporadas(dadosPorPonto), [dadosPorPonto]);
   const [temporada, setTemporada] = useState(() => temporadas.at(-1) ?? "2025-2026");
 
@@ -292,7 +296,7 @@ export function AnaliseTemporadaClient({ dadosPorPonto }: Props) {
       <div className="bg-blue-50 border border-blue-200 rounded-xl p-4">
         <h2 className="font-semibold text-blue-900 mb-2">Resumo — Temporada {temporada}</h2>
         <p className="text-sm text-blue-800 leading-relaxed">
-          Na temporada {temporada}, a Lagoa da Conceição registrou{" "}
+          Na temporada {temporada}, a {nomePraia} registrou{" "}
           <strong>{pctGeral}% de pontos próprios</strong> para banho em{" "}
           <strong>{totalMedicoes} medições</strong> coletadas entre{" "}
           {primeiraMedicao ? fmtData(primeiraMedicao) : "—"} e{" "}
