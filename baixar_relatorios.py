@@ -30,15 +30,12 @@ def date_range(start: date, end: date):
 
 
 def build_candidate_dates():
-    """Gera todas as datas candidatas: outubro a maio de cada temporada."""
+    """Gera todas as datas candidatas: ano inteiro de 2019 até hoje."""
     candidates = []
-    # Temporadas: out-mai de 2019/2020 até 2025/2026
-    for start_year in range(2019, 2026):
-        season_start = date(start_year, 10, 1)
-        season_end = date(start_year + 1, 5, 31)
-        for d in date_range(season_start, season_end):
-            if d <= date.today():
-                candidates.append(d)
+    start = date(2019, 1, 1)
+    end = date.today()
+    for d in date_range(start, end):
+        candidates.append(d)
     return candidates
 
 
